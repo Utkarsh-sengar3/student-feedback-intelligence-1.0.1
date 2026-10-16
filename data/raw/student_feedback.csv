@@ -1,0 +1,1201 @@
+feedback_id,student_year,semester,department,course,rating,feedback_text,submitted_date,sentiment_label
+FB00001,3,2,AI & ML,Artificial Intelligence,1,The course material is confusing and the workload is difficult to manage.,2026-09-01,negative
+FB00002,2,5,CSE,Data Structures,3,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-08-20,negative
+FB00003,1,1,Data Science,Software Engineering,3,"Most topics were covered, although some lectures felt average. I would like more real-world examples.",2026-01-25,neutral
+FB00004,2,1,Cyber Security,Computer Networks,3,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-08-12,negative
+FB00005,1,5,AI & ML,Operating Systems,2,There are too many technical issues during practical sessions.,2026-06-22,negative
+FB00006,2,1,CSE,Python Programming,3,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-02-24,negative
+FB00007,3,8,CSE,Data Structures,4,The teacher explains difficult concepts in a simple way.,2026-07-28,positive
+FB00008,4,7,CSE,Software Engineering,4,The course is okay and covers the required topics.,2026-03-20,neutral
+FB00009,1,7,Cyber Security,Python Programming,3,The course structure is acceptable and the workload is manageable.,2026-06-18,neutral
+FB00010,3,1,AI & ML,Data Structures,3,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-02-06,neutral
+FB00011,4,5,Data Science,Artificial Intelligence,4,The course structure is acceptable and the workload is manageable.,2026-05-22,neutral
+FB00012,2,8,AI & ML,Database Management,3,"The instructor provides the required material, but more interaction would help.",2026-04-18,neutral
+FB00013,2,8,CSE,Computer Networks,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-06-17,negative
+FB00014,2,4,Cyber Security,Database Management,4,The course structure is acceptable and the workload is manageable. I would like more real-world examples.,2026-02-19,neutral
+FB00015,2,6,AI & ML,Software Engineering,5,The instructor explains concepts clearly and uses useful examples.,2026-05-10,positive
+FB00016,2,2,CSE,Operating Systems,4,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-06-10,positive
+FB00017,4,3,Cyber Security,Computer Networks,4,The pace of the course is comfortable and the material is useful.,2026-06-26,positive
+FB00018,3,7,CSE,Operating Systems,4,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-03-16,positive
+FB00019,1,6,CSE,Python Programming,4,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-05-29,positive
+FB00020,3,6,CSE,Database Management,4,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-06-09,positive
+FB00021,2,7,AI & ML,Data Structures,3,"The course is okay and covers the required topics. Overall, this was my experience.",2026-05-08,neutral
+FB00022,3,7,AI & ML,Database Management,5,The teacher explains difficult concepts in a simple way.,2026-08-20,positive
+FB00023,1,2,Cyber Security,Computer Networks,4,"Most topics were covered, although some lectures felt average.",2026-05-05,neutral
+FB00024,2,4,Cyber Security,Data Structures,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-05-27,negative
+FB00025,3,7,CSE,Database Management,5,Excellent practical sessions and helpful feedback from the instructor.,2026-01-15,positive
+FB00026,3,3,AI & ML,Operating Systems,1,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-06-20,negative
+FB00027,4,3,AI & ML,Artificial Intelligence,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-08-17,positive
+FB00028,2,3,Cyber Security,Computer Networks,4,The lectures are engaging and the teacher answers questions patiently.,2026-07-22,positive
+FB00029,3,8,CSE,Software Engineering,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-08-22,positive
+FB00030,4,2,Cyber Security,Machine Learning,4,Assignments were relevant and improved my understanding.,2026-07-08,positive
+FB00031,2,1,Cyber Security,Database Management,2,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-06-17,negative
+FB00032,2,1,Cyber Security,Software Engineering,5,The pace of the course is comfortable and the material is useful.,2026-03-08,positive
+FB00033,1,3,Data Science,Operating Systems,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-08-07,positive
+FB00034,4,4,Data Science,Computer Networks,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-13,positive
+FB00035,3,8,AI & ML,Database Management,4,The lectures are engaging and the teacher answers questions patiently.,2026-05-11,positive
+FB00036,4,1,Data Science,Machine Learning,3,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-07-06,neutral
+FB00037,2,8,CSE,Data Structures,5,The course content is well organized and the instructor is supportive.,2026-05-07,positive
+FB00038,4,4,AI & ML,Artificial Intelligence,3,The teaching is satisfactory but could include more practical examples. More student interaction would be helpful.,2026-05-23,neutral
+FB00039,2,1,Cyber Security,Data Structures,3,"The content is useful, but the delivery could be improved.",2026-06-02,neutral
+FB00040,4,7,AI & ML,Operating Systems,2,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-02-05,negative
+FB00041,3,7,Data Science,Software Engineering,2,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-08-06,negative
+FB00042,2,1,Data Science,Software Engineering,3,The teaching is satisfactory but could include more practical examples.,2026-08-06,neutral
+FB00043,3,7,Cyber Security,Software Engineering,4,Assignments were relevant and improved my understanding.,2026-02-04,positive
+FB00044,4,3,CSE,Software Engineering,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-02-13,positive
+FB00045,1,4,AI & ML,Artificial Intelligence,2,The teaching feels repetitive and students do not receive enough feedback.,2026-01-15,negative
+FB00046,3,5,Data Science,Python Programming,5,The lectures are engaging and the teacher answers questions patiently.,2026-04-14,positive
+FB00047,4,5,AI & ML,Computer Networks,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-02-22,positive
+FB00048,2,3,AI & ML,Machine Learning,5,The lectures are engaging and the teacher answers questions patiently.,2026-04-09,positive
+FB00049,1,4,Cyber Security,Operating Systems,4,"The content is useful, but the delivery could be improved.",2026-02-02,neutral
+FB00050,4,5,Cyber Security,Operating Systems,1,There are too many technical issues during practical sessions. More student interaction would be helpful.,2026-06-13,negative
+FB00051,3,8,Cyber Security,Python Programming,1,The course material is confusing and the workload is difficult to manage.,2026-05-01,negative
+FB00052,1,4,CSE,Data Structures,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-04-20,positive
+FB00053,2,4,CSE,Data Structures,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-06-23,positive
+FB00054,2,7,CSE,Computer Networks,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-05-18,positive
+FB00055,3,7,Data Science,Machine Learning,2,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-03-20,negative
+FB00056,4,8,AI & ML,Software Engineering,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-06-06,negative
+FB00057,4,6,AI & ML,Software Engineering,5,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-08-28,positive
+FB00058,4,8,Cyber Security,Machine Learning,3,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-03-11,negative
+FB00059,1,2,Data Science,Machine Learning,4,The course is okay and covers the required topics.,2026-05-27,neutral
+FB00060,4,5,CSE,Data Structures,5,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-06-02,positive
+FB00061,1,4,Data Science,Operating Systems,3,There are too many technical issues during practical sessions.,2026-04-20,negative
+FB00062,4,7,Cyber Security,Operating Systems,3,The course moves too fast and there is not enough time for questions. I would like more real-world examples.,2026-03-15,negative
+FB00063,1,1,Cyber Security,Artificial Intelligence,4,Assignments were relevant and improved my understanding.,2026-04-25,positive
+FB00064,4,3,Cyber Security,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-05-05,positive
+FB00065,4,4,AI & ML,Database Management,4,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-08-02,positive
+FB00066,3,5,AI & ML,Machine Learning,4,The course is okay and covers the required topics.,2026-04-29,neutral
+FB00067,2,1,CSE,Artificial Intelligence,1,The instructor should provide more practical examples and clearer explanations.,2026-08-18,negative
+FB00068,4,6,CSE,Python Programming,1,The teaching feels repetitive and students do not receive enough feedback.,2026-07-29,negative
+FB00069,3,5,AI & ML,Operating Systems,4,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-08-13,positive
+FB00070,4,7,AI & ML,Machine Learning,4,The lectures are engaging and the teacher answers questions patiently.,2026-08-16,positive
+FB00071,1,7,Data Science,Software Engineering,3,"The content is useful, but the delivery could be improved.",2026-07-21,neutral
+FB00072,4,8,Cyber Security,Machine Learning,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-07-14,positive
+FB00073,1,1,AI & ML,Operating Systems,3,"The instructor provides the required material, but more interaction would help. More student interaction would be helpful.",2026-05-11,neutral
+FB00074,1,7,Data Science,Machine Learning,2,"The teaching feels repetitive and students do not receive enough feedback. Overall, this was my experience.",2026-02-25,negative
+FB00075,3,5,AI & ML,Machine Learning,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-06-06,positive
+FB00076,1,3,AI & ML,Python Programming,4,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-02-23,positive
+FB00077,3,7,Data Science,Computer Networks,1,The teaching feels repetitive and students do not receive enough feedback.,2026-02-13,negative
+FB00078,3,3,Data Science,Computer Networks,2,The teaching feels repetitive and students do not receive enough feedback.,2026-08-23,negative
+FB00079,2,2,AI & ML,Software Engineering,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-02-11,positive
+FB00080,3,4,Data Science,Software Engineering,5,The instructor explains concepts clearly and uses useful examples.,2026-04-18,positive
+FB00081,2,8,AI & ML,Database Management,5,Excellent practical sessions and helpful feedback from the instructor.,2026-04-20,positive
+FB00082,3,5,Data Science,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently.,2026-06-14,positive
+FB00083,3,2,CSE,Artificial Intelligence,4,The course structure is acceptable and the workload is manageable.,2026-06-09,neutral
+FB00084,4,2,Cyber Security,Python Programming,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-05-10,positive
+FB00085,4,4,CSE,Machine Learning,3,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-02-06,neutral
+FB00086,2,5,CSE,Computer Networks,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-02-20,positive
+FB00087,4,6,Cyber Security,Computer Networks,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-04-09,positive
+FB00088,2,5,Cyber Security,Machine Learning,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-09-05,positive
+FB00089,3,7,CSE,Software Engineering,1,The instructor should provide more practical examples and clearer explanations.,2026-06-12,negative
+FB00090,1,6,AI & ML,Computer Networks,5,The teacher explains difficult concepts in a simple way.,2026-07-29,positive
+FB00091,4,6,AI & ML,Artificial Intelligence,3,"The instructor often skips important concepts. Overall, this was my experience.",2026-04-27,negative
+FB00092,2,4,CSE,Software Engineering,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-15,positive
+FB00093,1,2,CSE,Data Structures,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-05-07,positive
+FB00094,1,7,Cyber Security,Python Programming,3,"The instructor provides the required material, but more interaction would help.",2026-06-12,neutral
+FB00095,1,6,CSE,Operating Systems,4,"Most topics were covered, although some lectures felt average. I would like more real-world examples.",2026-05-19,neutral
+FB00096,4,6,Cyber Security,Database Management,4,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-05-11,positive
+FB00097,2,5,CSE,Python Programming,2,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-05-17,negative
+FB00098,3,4,AI & ML,Machine Learning,5,The instructor explains concepts clearly and uses useful examples.,2026-04-01,positive
+FB00099,2,4,CSE,Data Structures,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-06-02,positive
+FB00100,3,6,Cyber Security,Python Programming,4,The course content is well organized and the instructor is supportive.,2026-06-07,positive
+FB00101,3,3,Cyber Security,Artificial Intelligence,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-07-16,positive
+FB00102,2,6,Data Science,Software Engineering,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-06-15,negative
+FB00103,3,8,Data Science,Operating Systems,3,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-04-03,negative
+FB00104,2,8,Cyber Security,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-05-01,positive
+FB00105,1,2,Data Science,Artificial Intelligence,2,The course moves too fast and there is not enough time for questions.,2026-07-21,negative
+FB00106,2,8,AI & ML,Database Management,1,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-02-05,negative
+FB00107,4,6,Data Science,Computer Networks,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-07-21,neutral
+FB00108,4,4,AI & ML,Software Engineering,4,The pace of the course is comfortable and the material is useful.,2026-05-13,positive
+FB00109,4,5,Data Science,Database Management,3,The course structure is acceptable and the workload is manageable.,2026-03-08,neutral
+FB00110,2,6,Data Science,Computer Networks,3,The teaching feels repetitive and students do not receive enough feedback.,2026-04-15,negative
+FB00111,1,6,CSE,Computer Networks,5,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-07-01,positive
+FB00112,2,5,AI & ML,Machine Learning,3,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-05-27,negative
+FB00113,2,4,Cyber Security,Data Structures,1,There are too many technical issues during practical sessions. I would like more real-world examples.,2026-05-09,negative
+FB00114,1,5,AI & ML,Database Management,4,The instructor explains concepts clearly and uses useful examples.,2026-04-28,positive
+FB00115,4,8,Cyber Security,Artificial Intelligence,3,"The content is useful, but the delivery could be improved.",2026-05-19,neutral
+FB00116,2,8,Cyber Security,Database Management,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-05-17,positive
+FB00117,2,7,AI & ML,Database Management,1,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-03-28,negative
+FB00118,3,3,Cyber Security,Artificial Intelligence,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-07-17,positive
+FB00119,3,3,Cyber Security,Operating Systems,5,Excellent practical sessions and helpful feedback from the instructor.,2026-08-14,positive
+FB00120,1,4,Data Science,Database Management,1,The instructor should provide more practical examples and clearer explanations.,2026-08-27,negative
+FB00121,4,6,AI & ML,Database Management,3,"The content is useful, but the delivery could be improved.",2026-01-19,neutral
+FB00122,3,7,CSE,Machine Learning,5,Assignments were relevant and improved my understanding.,2026-01-22,positive
+FB00123,3,4,AI & ML,Software Engineering,5,The teacher explains difficult concepts in a simple way.,2026-03-23,positive
+FB00124,1,4,Cyber Security,Data Structures,4,The lectures are engaging and the teacher answers questions patiently.,2026-01-10,positive
+FB00125,2,5,Cyber Security,Computer Networks,3,The teaching is satisfactory but could include more practical examples.,2026-07-30,neutral
+FB00126,2,7,Data Science,Database Management,5,The lectures are engaging and the teacher answers questions patiently.,2026-03-05,positive
+FB00127,2,7,Data Science,Data Structures,4,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-02-15,positive
+FB00128,1,8,AI & ML,Python Programming,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-01-17,positive
+FB00129,3,2,Data Science,Operating Systems,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-08-01,positive
+FB00130,1,8,Cyber Security,Software Engineering,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-08-03,positive
+FB00131,3,8,Cyber Security,Machine Learning,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-04-06,positive
+FB00132,3,3,AI & ML,Artificial Intelligence,1,The course moves too fast and there is not enough time for questions.,2026-04-19,negative
+FB00133,2,4,AI & ML,Operating Systems,5,Excellent practical sessions and helpful feedback from the instructor.,2026-02-18,positive
+FB00134,2,1,Cyber Security,Data Structures,4,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-06-01,neutral
+FB00135,1,7,Data Science,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor.,2026-09-05,positive
+FB00136,3,4,AI & ML,Artificial Intelligence,5,The pace of the course is comfortable and the material is useful.,2026-08-13,positive
+FB00137,2,6,AI & ML,Computer Networks,1,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-06-01,negative
+FB00138,1,1,Data Science,Data Structures,5,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-03-06,positive
+FB00139,3,5,CSE,Python Programming,1,There are too many technical issues during practical sessions.,2026-06-21,negative
+FB00140,4,2,CSE,Software Engineering,4,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-05-13,neutral
+FB00141,2,8,AI & ML,Python Programming,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-08-11,positive
+FB00142,4,3,AI & ML,Operating Systems,4,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-02-26,positive
+FB00143,2,8,Data Science,Operating Systems,2,The instructor often skips important concepts. More student interaction would be helpful.,2026-08-08,negative
+FB00144,3,5,Cyber Security,Software Engineering,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-05-26,positive
+FB00145,4,5,AI & ML,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-02-28,positive
+FB00146,2,7,Data Science,Software Engineering,3,The instructor should provide more practical examples and clearer explanations.,2026-08-11,negative
+FB00147,3,4,CSE,Machine Learning,4,The teacher explains difficult concepts in a simple way.,2026-06-03,positive
+FB00148,2,3,CSE,Python Programming,2,The teaching feels repetitive and students do not receive enough feedback.,2026-02-10,negative
+FB00149,4,6,AI & ML,Data Structures,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-02-02,positive
+FB00150,1,8,AI & ML,Computer Networks,2,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-05-15,negative
+FB00151,2,1,Cyber Security,Data Structures,4,The course content is well organized and the instructor is supportive.,2026-06-15,positive
+FB00152,2,3,Cyber Security,Database Management,3,"The content is useful, but the delivery could be improved.",2026-08-08,neutral
+FB00153,4,5,AI & ML,Computer Networks,2,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-02-12,negative
+FB00154,4,6,Data Science,Computer Networks,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-05-20,positive
+FB00155,4,3,Data Science,Artificial Intelligence,4,The instructor explains concepts clearly and uses useful examples.,2026-07-05,positive
+FB00156,4,1,Cyber Security,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor.,2026-02-28,positive
+FB00157,1,4,CSE,Data Structures,3,The instructor should provide more practical examples and clearer explanations.,2026-08-01,negative
+FB00158,1,8,Data Science,Data Structures,4,The teacher explains difficult concepts in a simple way.,2026-08-02,positive
+FB00159,1,3,AI & ML,Database Management,3,The course material is confusing and the workload is difficult to manage.,2026-02-17,negative
+FB00160,3,3,CSE,Computer Networks,1,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-05-17,negative
+FB00161,1,2,Cyber Security,Machine Learning,3,"The instructor provides the required material, but more interaction would help.",2026-05-05,neutral
+FB00162,1,2,CSE,Python Programming,3,The course moves too fast and there is not enough time for questions.,2026-01-17,negative
+FB00163,3,1,CSE,Software Engineering,4,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-04-16,positive
+FB00164,4,7,Data Science,Database Management,4,The course structure is acceptable and the workload is manageable.,2026-05-02,neutral
+FB00165,1,8,CSE,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-07-19,positive
+FB00166,1,2,Cyber Security,Artificial Intelligence,4,The course is okay and covers the required topics. I would like more real-world examples.,2026-04-25,neutral
+FB00167,2,8,AI & ML,Computer Networks,4,"The instructor provides the required material, but more interaction would help.",2026-04-29,neutral
+FB00168,2,2,Cyber Security,Operating Systems,5,The course content is well organized and the instructor is supportive.,2026-03-27,positive
+FB00169,3,1,CSE,Artificial Intelligence,4,"The instructor provides the required material, but more interaction would help.",2026-08-26,neutral
+FB00170,4,5,AI & ML,Software Engineering,4,Assignments were relevant and improved my understanding.,2026-04-27,positive
+FB00171,3,7,Data Science,Data Structures,2,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-03-23,negative
+FB00172,2,8,Data Science,Data Structures,2,The course material is confusing and the workload is difficult to manage.,2026-07-01,negative
+FB00173,3,4,CSE,Operating Systems,3,"The instructor provides the required material, but more interaction would help. More student interaction would be helpful.",2026-04-17,neutral
+FB00174,3,2,Data Science,Operating Systems,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-06-18,positive
+FB00175,4,8,Cyber Security,Python Programming,5,The pace of the course is comfortable and the material is useful.,2026-03-10,positive
+FB00176,1,3,CSE,Database Management,3,The teaching is satisfactory but could include more practical examples.,2026-06-20,neutral
+FB00177,3,7,Cyber Security,Artificial Intelligence,2,The course material is confusing and the workload is difficult to manage.,2026-06-05,negative
+FB00178,4,5,CSE,Computer Networks,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-06-23,positive
+FB00179,3,3,CSE,Data Structures,5,Assignments were relevant and improved my understanding.,2026-08-22,positive
+FB00180,2,4,Data Science,Python Programming,3,Assignments are excessive and do not always match the lectures.,2026-03-31,negative
+FB00181,4,8,Cyber Security,Machine Learning,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-07-07,positive
+FB00182,2,6,AI & ML,Artificial Intelligence,2,The course moves too fast and there is not enough time for questions. I would like more real-world examples.,2026-06-13,negative
+FB00183,2,3,AI & ML,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-07-24,positive
+FB00184,2,4,Cyber Security,Data Structures,1,The teaching feels repetitive and students do not receive enough feedback.,2026-07-30,negative
+FB00185,2,4,Cyber Security,Database Management,5,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-02-25,positive
+FB00186,4,3,Cyber Security,Operating Systems,4,The instructor explains concepts clearly and uses useful examples.,2026-01-26,positive
+FB00187,4,2,Data Science,Computer Networks,4,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-02-05,positive
+FB00188,3,2,Data Science,Database Management,2,The teaching feels repetitive and students do not receive enough feedback.,2026-06-23,negative
+FB00189,3,1,AI & ML,Operating Systems,4,The course is okay and covers the required topics. More student interaction would be helpful.,2026-07-03,neutral
+FB00190,2,2,AI & ML,Database Management,1,Assignments are excessive and do not always match the lectures.,2026-06-20,negative
+FB00191,4,8,CSE,Computer Networks,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-03-28,positive
+FB00192,4,3,AI & ML,Artificial Intelligence,1,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-08-08,negative
+FB00193,1,5,AI & ML,Data Structures,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-01-10,positive
+FB00194,3,6,Cyber Security,Database Management,4,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-02-19,positive
+FB00195,3,4,Cyber Security,Machine Learning,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-02-01,positive
+FB00196,4,2,Data Science,Artificial Intelligence,5,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-07-09,positive
+FB00197,1,6,Cyber Security,Software Engineering,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-07,positive
+FB00198,4,1,CSE,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-09-04,positive
+FB00199,2,2,Cyber Security,Software Engineering,4,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-09-01,positive
+FB00200,3,8,CSE,Database Management,2,The instructor should provide more practical examples and clearer explanations.,2026-07-05,negative
+FB00201,3,4,AI & ML,Artificial Intelligence,4,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-01-21,neutral
+FB00202,2,3,Cyber Security,Machine Learning,3,"Most topics were covered, although some lectures felt average.",2026-07-27,neutral
+FB00203,3,2,CSE,Computer Networks,3,The course is okay and covers the required topics.,2026-05-25,neutral
+FB00204,1,5,Cyber Security,Python Programming,3,"The content is useful, but the delivery could be improved.",2026-06-14,neutral
+FB00205,2,7,Cyber Security,Computer Networks,4,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-01-24,positive
+FB00206,3,1,AI & ML,Software Engineering,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-02-02,positive
+FB00207,1,6,Cyber Security,Data Structures,5,The instructor explains concepts clearly and uses useful examples.,2026-03-27,positive
+FB00208,2,8,Data Science,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently.,2026-02-28,positive
+FB00209,1,1,AI & ML,Computer Networks,3,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-06-07,negative
+FB00210,4,6,Data Science,Data Structures,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-09-06,positive
+FB00211,4,1,Data Science,Software Engineering,4,The lectures are engaging and the teacher answers questions patiently.,2026-07-22,positive
+FB00212,2,3,Cyber Security,Software Engineering,4,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-04-11,positive
+FB00213,2,2,AI & ML,Software Engineering,4,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-02-03,positive
+FB00214,2,4,CSE,Python Programming,3,"The lectures are difficult to follow and the concepts are not explained clearly. Overall, this was my experience.",2026-06-10,negative
+FB00215,2,3,CSE,Software Engineering,3,There are too many technical issues during practical sessions. More student interaction would be helpful.,2026-05-26,negative
+FB00216,2,8,CSE,Machine Learning,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-04-10,positive
+FB00217,2,7,AI & ML,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-05-25,positive
+FB00218,4,2,Data Science,Machine Learning,3,The teaching feels repetitive and students do not receive enough feedback.,2026-06-19,negative
+FB00219,4,8,Data Science,Software Engineering,5,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-01-11,positive
+FB00220,1,3,Data Science,Data Structures,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-08-02,positive
+FB00221,4,8,CSE,Software Engineering,3,The teaching is satisfactory but could include more practical examples.,2026-08-08,neutral
+FB00222,1,4,Cyber Security,Data Structures,4,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-05-09,positive
+FB00223,4,7,AI & ML,Software Engineering,4,The teaching is satisfactory but could include more practical examples. More student interaction would be helpful.,2026-06-01,neutral
+FB00224,4,5,CSE,Data Structures,2,The teaching feels repetitive and students do not receive enough feedback.,2026-05-25,negative
+FB00225,2,2,CSE,Data Structures,3,"The course material is confusing and the workload is difficult to manage. Overall, this was my experience.",2026-02-07,negative
+FB00226,2,6,Cyber Security,Machine Learning,3,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-01-15,negative
+FB00227,1,6,Data Science,Machine Learning,4,The course structure is acceptable and the workload is manageable.,2026-04-10,neutral
+FB00228,3,8,AI & ML,Computer Networks,3,The course is okay and covers the required topics.,2026-02-12,neutral
+FB00229,4,2,CSE,Data Structures,4,The course content is well organized and the instructor is supportive.,2026-07-23,positive
+FB00230,4,8,Data Science,Database Management,3,The course moves too fast and there is not enough time for questions.,2026-04-22,negative
+FB00231,4,4,Cyber Security,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-01-19,positive
+FB00232,1,3,Cyber Security,Python Programming,4,The course structure is acceptable and the workload is manageable.,2026-07-29,neutral
+FB00233,1,6,Data Science,Machine Learning,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-17,positive
+FB00234,1,2,Cyber Security,Database Management,3,"The instructor provides the required material, but more interaction would help.",2026-03-25,neutral
+FB00235,1,6,Cyber Security,Data Structures,4,Assignments were relevant and improved my understanding.,2026-06-28,positive
+FB00236,4,6,AI & ML,Software Engineering,2,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-07-19,negative
+FB00237,4,4,Data Science,Python Programming,4,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-05-05,neutral
+FB00238,2,1,AI & ML,Operating Systems,4,Excellent practical sessions and helpful feedback from the instructor.,2026-01-28,positive
+FB00239,3,1,AI & ML,Database Management,3,The course material is confusing and the workload is difficult to manage.,2026-02-16,negative
+FB00240,3,6,Cyber Security,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-09-01,positive
+FB00241,1,2,AI & ML,Data Structures,4,Assignments were relevant and improved my understanding.,2026-05-26,positive
+FB00242,1,5,Cyber Security,Python Programming,3,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-06-07,negative
+FB00243,1,4,AI & ML,Computer Networks,1,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-04-25,negative
+FB00244,3,4,AI & ML,Artificial Intelligence,1,There are too many technical issues during practical sessions.,2026-03-27,negative
+FB00245,1,7,Data Science,Software Engineering,3,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-02-19,neutral
+FB00246,2,5,Data Science,Machine Learning,2,There are too many technical issues during practical sessions.,2026-05-11,negative
+FB00247,2,8,CSE,Software Engineering,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-01-26,positive
+FB00248,1,5,Cyber Security,Machine Learning,4,The teaching is satisfactory but could include more practical examples.,2026-05-02,neutral
+FB00249,4,6,Data Science,Operating Systems,3,Assignments are excessive and do not always match the lectures.,2026-07-16,negative
+FB00250,3,3,CSE,Computer Networks,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-06-18,positive
+FB00251,2,6,Cyber Security,Database Management,3,"The content is useful, but the delivery could be improved. More student interaction would be helpful.",2026-05-11,neutral
+FB00252,3,3,AI & ML,Computer Networks,2,The instructor should provide more practical examples and clearer explanations.,2026-02-26,negative
+FB00253,2,5,AI & ML,Machine Learning,4,The course is okay and covers the required topics. I would like more real-world examples.,2026-08-27,neutral
+FB00254,3,2,Cyber Security,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-07-11,positive
+FB00255,2,7,AI & ML,Computer Networks,3,"The content is useful, but the delivery could be improved.",2026-03-16,neutral
+FB00256,3,2,AI & ML,Computer Networks,5,The course content is well organized and the instructor is supportive.,2026-05-05,positive
+FB00257,2,4,Cyber Security,Database Management,1,The teaching feels repetitive and students do not receive enough feedback. I would like more real-world examples.,2026-03-08,negative
+FB00258,2,6,AI & ML,Software Engineering,4,The lectures are engaging and the teacher answers questions patiently.,2026-07-09,positive
+FB00259,2,6,CSE,Python Programming,4,The lectures are engaging and the teacher answers questions patiently.,2026-04-08,positive
+FB00260,2,6,Data Science,Machine Learning,4,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-08-06,positive
+FB00261,4,5,Cyber Security,Database Management,3,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-04-30,negative
+FB00262,2,4,CSE,Computer Networks,5,The teacher explains difficult concepts in a simple way.,2026-05-26,positive
+FB00263,1,2,Cyber Security,Machine Learning,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-08-01,neutral
+FB00264,2,2,CSE,Operating Systems,1,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-03-15,negative
+FB00265,3,5,CSE,Data Structures,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-02-19,neutral
+FB00266,2,1,Cyber Security,Machine Learning,5,The teacher explains difficult concepts in a simple way.,2026-06-22,positive
+FB00267,2,8,Cyber Security,Python Programming,4,The teacher explains difficult concepts in a simple way.,2026-02-12,positive
+FB00268,2,3,Cyber Security,Artificial Intelligence,3,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-03-14,neutral
+FB00269,4,5,Cyber Security,Artificial Intelligence,5,The pace of the course is comfortable and the material is useful.,2026-04-10,positive
+FB00270,3,3,Cyber Security,Software Engineering,2,There are too many technical issues during practical sessions.,2026-01-19,negative
+FB00271,1,2,CSE,Database Management,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-07-08,positive
+FB00272,2,4,CSE,Operating Systems,4,The lectures are engaging and the teacher answers questions patiently.,2026-08-04,positive
+FB00273,2,6,CSE,Data Structures,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-08-19,neutral
+FB00274,1,4,CSE,Data Structures,4,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-02-27,positive
+FB00275,4,2,Cyber Security,Artificial Intelligence,4,The course content is well organized and the instructor is supportive.,2026-07-21,positive
+FB00276,1,1,Cyber Security,Artificial Intelligence,4,Assignments were relevant and improved my understanding.,2026-04-16,positive
+FB00277,1,1,AI & ML,Python Programming,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-06-12,positive
+FB00278,4,2,Cyber Security,Machine Learning,2,The course moves too fast and there is not enough time for questions.,2026-03-05,negative
+FB00279,3,5,Cyber Security,Artificial Intelligence,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-02-09,positive
+FB00280,2,1,Cyber Security,Data Structures,3,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-05-16,negative
+FB00281,2,4,AI & ML,Software Engineering,2,The lectures are difficult to follow and the concepts are not explained clearly. I would like more real-world examples.,2026-03-08,negative
+FB00282,2,7,Cyber Security,Software Engineering,4,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-08-17,neutral
+FB00283,3,7,AI & ML,Database Management,4,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-07-19,positive
+FB00284,4,4,CSE,Database Management,1,The lectures are difficult to follow and the concepts are not explained clearly. I would like more real-world examples.,2026-06-12,negative
+FB00285,2,5,Cyber Security,Machine Learning,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-03-19,positive
+FB00286,4,7,CSE,Data Structures,2,The teaching feels repetitive and students do not receive enough feedback.,2026-07-13,negative
+FB00287,4,8,AI & ML,Computer Networks,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-03-03,positive
+FB00288,1,4,CSE,Python Programming,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-08-05,neutral
+FB00289,1,3,Data Science,Artificial Intelligence,4,Excellent practical sessions and helpful feedback from the instructor.,2026-03-12,positive
+FB00290,1,5,Data Science,Computer Networks,1,The course moves too fast and there is not enough time for questions. I would like more real-world examples.,2026-07-16,negative
+FB00291,4,4,Data Science,Machine Learning,4,Excellent practical sessions and helpful feedback from the instructor.,2026-06-11,positive
+FB00292,2,1,Data Science,Database Management,1,"The instructor often skips important concepts. Overall, this was my experience.",2026-02-27,negative
+FB00293,3,2,AI & ML,Database Management,3,There are too many technical issues during practical sessions. I would like more real-world examples.,2026-08-31,negative
+FB00294,1,3,AI & ML,Data Structures,3,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-01-31,negative
+FB00295,1,1,AI & ML,Artificial Intelligence,4,The course content is well organized and the instructor is supportive.,2026-07-27,positive
+FB00296,4,3,Data Science,Computer Networks,4,The course is okay and covers the required topics. I would like more real-world examples.,2026-05-15,neutral
+FB00297,2,1,AI & ML,Computer Networks,3,"Most topics were covered, although some lectures felt average.",2026-07-20,neutral
+FB00298,4,6,CSE,Software Engineering,5,The course content is well organized and the instructor is supportive.,2026-06-23,positive
+FB00299,2,7,AI & ML,Computer Networks,1,The instructor often skips important concepts.,2026-06-24,negative
+FB00300,2,3,Data Science,Database Management,1,The lectures are difficult to follow and the concepts are not explained clearly.,2026-06-08,negative
+FB00301,3,5,Data Science,Artificial Intelligence,3,"The course is okay and covers the required topics. Overall, this was my experience.",2026-06-22,neutral
+FB00302,1,8,AI & ML,Database Management,4,Excellent practical sessions and helpful feedback from the instructor.,2026-04-25,positive
+FB00303,3,1,Cyber Security,Software Engineering,2,There are too many technical issues during practical sessions.,2026-05-03,negative
+FB00304,2,8,Data Science,Operating Systems,4,"The course is okay and covers the required topics. Overall, this was my experience.",2026-06-03,neutral
+FB00305,2,5,Cyber Security,Database Management,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-05-08,negative
+FB00306,1,4,AI & ML,Data Structures,5,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-02-01,positive
+FB00307,3,6,AI & ML,Data Structures,4,The teacher explains difficult concepts in a simple way.,2026-05-26,positive
+FB00308,3,2,CSE,Computer Networks,5,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-06-12,positive
+FB00309,4,8,Data Science,Data Structures,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-07-10,positive
+FB00310,2,3,CSE,Operating Systems,3,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-03-14,negative
+FB00311,3,3,Data Science,Operating Systems,4,"The instructor provides the required material, but more interaction would help. More student interaction would be helpful.",2026-08-04,neutral
+FB00312,4,2,CSE,Software Engineering,3,Assignments are excessive and do not always match the lectures.,2026-04-25,negative
+FB00313,4,8,CSE,Machine Learning,2,The instructor should provide more practical examples and clearer explanations. More student interaction would be helpful.,2026-03-28,negative
+FB00314,3,4,CSE,Operating Systems,4,"The course is okay and covers the required topics. Overall, this was my experience.",2026-07-08,neutral
+FB00315,1,5,Cyber Security,Software Engineering,5,The course content is well organized and the instructor is supportive.,2026-04-27,positive
+FB00316,1,8,CSE,Machine Learning,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-02-21,positive
+FB00317,1,8,Data Science,Python Programming,3,"The content is useful, but the delivery could be improved.",2026-01-15,neutral
+FB00318,2,6,CSE,Computer Networks,1,The lectures are difficult to follow and the concepts are not explained clearly.,2026-01-27,negative
+FB00319,1,5,Cyber Security,Database Management,2,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-05-21,negative
+FB00320,3,2,Data Science,Software Engineering,5,The pace of the course is comfortable and the material is useful.,2026-08-26,positive
+FB00321,2,6,AI & ML,Operating Systems,3,The course structure is acceptable and the workload is manageable.,2026-01-21,neutral
+FB00322,2,5,Data Science,Data Structures,4,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-06-05,positive
+FB00323,1,7,CSE,Artificial Intelligence,1,The teaching feels repetitive and students do not receive enough feedback. I would like more real-world examples.,2026-06-03,negative
+FB00324,2,2,CSE,Machine Learning,5,The lectures are engaging and the teacher answers questions patiently.,2026-02-21,positive
+FB00325,4,5,AI & ML,Database Management,2,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-08-19,negative
+FB00326,4,2,Cyber Security,Data Structures,3,The teaching feels repetitive and students do not receive enough feedback.,2026-08-30,negative
+FB00327,3,8,Data Science,Computer Networks,4,"The instructor provides the required material, but more interaction would help.",2026-04-20,neutral
+FB00328,1,6,Data Science,Data Structures,4,The course structure is acceptable and the workload is manageable.,2026-08-01,neutral
+FB00329,4,2,Data Science,Machine Learning,5,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-04-08,positive
+FB00330,4,5,Data Science,Machine Learning,5,The course content is well organized and the instructor is supportive.,2026-03-02,positive
+FB00331,1,5,Data Science,Computer Networks,3,The course material is confusing and the workload is difficult to manage.,2026-08-20,negative
+FB00332,1,4,AI & ML,Operating Systems,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-06-20,positive
+FB00333,4,2,CSE,Artificial Intelligence,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-03-31,positive
+FB00334,2,7,Cyber Security,Database Management,1,"The course material is confusing and the workload is difficult to manage. Overall, this was my experience.",2026-06-15,negative
+FB00335,1,3,AI & ML,Data Structures,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-06-24,positive
+FB00336,2,6,CSE,Artificial Intelligence,4,Assignments were relevant and improved my understanding.,2026-05-15,positive
+FB00337,2,3,Data Science,Python Programming,5,The course content is well organized and the instructor is supportive.,2026-02-05,positive
+FB00338,2,7,Cyber Security,Machine Learning,4,The course content is well organized and the instructor is supportive.,2026-04-10,positive
+FB00339,3,7,CSE,Python Programming,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-04-21,neutral
+FB00340,1,8,Data Science,Data Structures,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-07-12,positive
+FB00341,4,8,Cyber Security,Operating Systems,5,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-01-20,positive
+FB00342,2,1,Cyber Security,Data Structures,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-01-13,positive
+FB00343,2,2,Cyber Security,Database Management,5,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-05-03,positive
+FB00344,2,7,Data Science,Machine Learning,5,The lectures are engaging and the teacher answers questions patiently.,2026-01-31,positive
+FB00345,4,8,CSE,Software Engineering,5,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-05-11,positive
+FB00346,4,7,CSE,Database Management,2,The course moves too fast and there is not enough time for questions.,2026-05-17,negative
+FB00347,1,4,CSE,Artificial Intelligence,1,The course moves too fast and there is not enough time for questions.,2026-02-27,negative
+FB00348,2,5,CSE,Computer Networks,4,"Most topics were covered, although some lectures felt average.",2026-04-03,neutral
+FB00349,4,1,Data Science,Database Management,3,"Most topics were covered, although some lectures felt average.",2026-03-02,neutral
+FB00350,2,5,AI & ML,Software Engineering,2,The instructor should provide more practical examples and clearer explanations.,2026-03-08,negative
+FB00351,4,2,Data Science,Data Structures,3,Assignments are excessive and do not always match the lectures.,2026-06-29,negative
+FB00352,1,1,Data Science,Python Programming,3,"The instructor provides the required material, but more interaction would help. More student interaction would be helpful.",2026-05-17,neutral
+FB00353,4,5,CSE,Database Management,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-01-19,positive
+FB00354,1,3,CSE,Database Management,4,Excellent practical sessions and helpful feedback from the instructor.,2026-02-25,positive
+FB00355,2,3,AI & ML,Artificial Intelligence,5,The course content is well organized and the instructor is supportive.,2026-01-16,positive
+FB00356,4,1,Data Science,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-05-17,positive
+FB00357,4,4,Cyber Security,Data Structures,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-04-24,positive
+FB00358,4,4,AI & ML,Software Engineering,1,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-09-05,negative
+FB00359,1,6,Cyber Security,Operating Systems,1,The lectures are difficult to follow and the concepts are not explained clearly.,2026-07-20,negative
+FB00360,2,8,CSE,Python Programming,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-01-20,neutral
+FB00361,2,1,Cyber Security,Data Structures,5,The course content is well organized and the instructor is supportive.,2026-03-15,positive
+FB00362,3,1,CSE,Computer Networks,3,The instructor often skips important concepts.,2026-03-12,negative
+FB00363,3,5,CSE,Computer Networks,3,The course is okay and covers the required topics.,2026-07-26,neutral
+FB00364,4,5,Cyber Security,Data Structures,4,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-02-13,positive
+FB00365,3,3,CSE,Data Structures,4,The course structure is acceptable and the workload is manageable.,2026-08-21,neutral
+FB00366,1,3,Data Science,Data Structures,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-07-24,positive
+FB00367,3,4,AI & ML,Computer Networks,4,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-08-22,positive
+FB00368,3,3,Data Science,Computer Networks,1,Assignments are excessive and do not always match the lectures.,2026-04-26,negative
+FB00369,2,3,Cyber Security,Database Management,5,The teacher explains difficult concepts in a simple way.,2026-05-05,positive
+FB00370,4,6,Cyber Security,Database Management,2,The instructor often skips important concepts.,2026-03-26,negative
+FB00371,1,5,Cyber Security,Python Programming,5,The teacher explains difficult concepts in a simple way.,2026-03-11,positive
+FB00372,3,1,CSE,Artificial Intelligence,3,The course structure is acceptable and the workload is manageable.,2026-06-16,neutral
+FB00373,4,4,AI & ML,Python Programming,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-03-27,positive
+FB00374,1,4,CSE,Artificial Intelligence,4,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-03-12,positive
+FB00375,3,3,CSE,Data Structures,5,The lectures are engaging and the teacher answers questions patiently.,2026-04-02,positive
+FB00376,3,3,Cyber Security,Database Management,3,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-05-15,neutral
+FB00377,2,8,Data Science,Artificial Intelligence,3,The instructor often skips important concepts. I would like more real-world examples.,2026-09-03,negative
+FB00378,1,6,Cyber Security,Machine Learning,4,The instructor explains concepts clearly and uses useful examples.,2026-05-11,positive
+FB00379,3,4,Cyber Security,Artificial Intelligence,4,"The content is useful, but the delivery could be improved. More student interaction would be helpful.",2026-07-31,neutral
+FB00380,1,2,Cyber Security,Python Programming,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-06-14,negative
+FB00381,3,3,AI & ML,Operating Systems,5,The instructor explains concepts clearly and uses useful examples.,2026-02-01,positive
+FB00382,2,2,Cyber Security,Data Structures,1,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-06-28,negative
+FB00383,1,1,Data Science,Artificial Intelligence,3,The teaching is satisfactory but could include more practical examples.,2026-01-20,neutral
+FB00384,4,2,CSE,Data Structures,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-05-06,positive
+FB00385,2,3,Data Science,Operating Systems,5,The instructor explains concepts clearly and uses useful examples.,2026-08-13,positive
+FB00386,1,7,CSE,Data Structures,1,There are too many technical issues during practical sessions.,2026-03-19,negative
+FB00387,4,7,AI & ML,Software Engineering,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-01-26,positive
+FB00388,4,3,AI & ML,Machine Learning,4,The teacher explains difficult concepts in a simple way.,2026-02-26,positive
+FB00389,2,3,Cyber Security,Database Management,4,"Most topics were covered, although some lectures felt average.",2026-02-12,neutral
+FB00390,2,5,Data Science,Operating Systems,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-01-26,positive
+FB00391,2,1,Data Science,Machine Learning,5,The teacher explains difficult concepts in a simple way.,2026-01-25,positive
+FB00392,1,8,AI & ML,Artificial Intelligence,1,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-08-02,negative
+FB00393,4,8,CSE,Machine Learning,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-05-10,positive
+FB00394,1,3,CSE,Machine Learning,3,The instructor should provide more practical examples and clearer explanations.,2026-08-10,negative
+FB00395,2,1,CSE,Database Management,3,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-05-15,neutral
+FB00396,2,7,CSE,Machine Learning,5,The course content is well organized and the instructor is supportive.,2026-02-14,positive
+FB00397,3,8,Cyber Security,Machine Learning,2,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-03-08,negative
+FB00398,4,2,Cyber Security,Database Management,4,Assignments were relevant and improved my understanding.,2026-01-20,positive
+FB00399,4,7,CSE,Artificial Intelligence,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-01-12,negative
+FB00400,1,5,AI & ML,Computer Networks,3,The teaching is satisfactory but could include more practical examples. More student interaction would be helpful.,2026-05-23,neutral
+FB00401,4,4,Cyber Security,Data Structures,4,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-03-10,neutral
+FB00402,4,5,Data Science,Software Engineering,3,"The instructor provides the required material, but more interaction would help.",2026-08-31,neutral
+FB00403,1,4,AI & ML,Software Engineering,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-05-16,positive
+FB00404,1,7,Cyber Security,Python Programming,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-02-02,positive
+FB00405,3,7,Data Science,Database Management,1,The instructor often skips important concepts. I would like more real-world examples.,2026-07-10,negative
+FB00406,2,8,Data Science,Data Structures,2,The instructor often skips important concepts. I would like more real-world examples.,2026-08-27,negative
+FB00407,4,4,Cyber Security,Computer Networks,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-02-17,neutral
+FB00408,3,1,AI & ML,Computer Networks,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-04-17,positive
+FB00409,3,2,Data Science,Database Management,4,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-07-18,neutral
+FB00410,1,1,CSE,Python Programming,4,"The content is useful, but the delivery could be improved. Overall, this was my experience.",2026-05-16,neutral
+FB00411,3,2,AI & ML,Machine Learning,2,The teaching feels repetitive and students do not receive enough feedback. I would like more real-world examples.,2026-07-05,negative
+FB00412,2,6,CSE,Python Programming,1,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-08-05,negative
+FB00413,1,7,AI & ML,Computer Networks,3,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-02-25,neutral
+FB00414,1,8,AI & ML,Data Structures,4,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-04-01,positive
+FB00415,4,5,AI & ML,Software Engineering,3,There are too many technical issues during practical sessions.,2026-06-05,negative
+FB00416,4,8,Cyber Security,Operating Systems,3,The course moves too fast and there is not enough time for questions.,2026-05-15,negative
+FB00417,2,2,AI & ML,Operating Systems,4,The course structure is acceptable and the workload is manageable.,2026-06-22,neutral
+FB00418,1,5,Cyber Security,Operating Systems,3,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-08-22,negative
+FB00419,2,7,AI & ML,Database Management,3,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-02-02,neutral
+FB00420,1,8,Data Science,Software Engineering,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-03-02,positive
+FB00421,3,3,Cyber Security,Computer Networks,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-02-15,positive
+FB00422,3,5,Data Science,Artificial Intelligence,1,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-06-12,negative
+FB00423,3,2,Cyber Security,Data Structures,4,The course structure is acceptable and the workload is manageable.,2026-04-10,neutral
+FB00424,2,5,CSE,Python Programming,4,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-03-10,positive
+FB00425,1,5,CSE,Software Engineering,4,"The content is useful, but the delivery could be improved.",2026-03-21,neutral
+FB00426,4,3,CSE,Artificial Intelligence,4,The teaching is satisfactory but could include more practical examples.,2026-06-25,neutral
+FB00427,1,7,Data Science,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently.,2026-06-21,positive
+FB00428,2,4,AI & ML,Operating Systems,1,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-02-02,negative
+FB00429,3,6,Cyber Security,Computer Networks,3,The course is okay and covers the required topics. More student interaction would be helpful.,2026-07-27,neutral
+FB00430,4,8,AI & ML,Data Structures,4,"The course is okay and covers the required topics. Overall, this was my experience.",2026-08-20,neutral
+FB00431,1,3,AI & ML,Artificial Intelligence,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-04-26,positive
+FB00432,2,7,Cyber Security,Operating Systems,4,The lectures are engaging and the teacher answers questions patiently.,2026-08-12,positive
+FB00433,4,4,AI & ML,Database Management,3,"The content is useful, but the delivery could be improved.",2026-04-17,neutral
+FB00434,3,5,CSE,Operating Systems,3,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-07-09,negative
+FB00435,1,7,Data Science,Machine Learning,4,The instructor explains concepts clearly and uses useful examples.,2026-04-04,positive
+FB00436,4,1,CSE,Data Structures,1,The instructor often skips important concepts. I would like more real-world examples.,2026-05-08,negative
+FB00437,4,3,Cyber Security,Software Engineering,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-08-28,positive
+FB00438,2,6,Data Science,Database Management,5,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-04-02,positive
+FB00439,2,7,Cyber Security,Artificial Intelligence,5,The teacher explains difficult concepts in a simple way.,2026-06-10,positive
+FB00440,1,2,Cyber Security,Computer Networks,3,The teaching is satisfactory but could include more practical examples.,2026-02-26,neutral
+FB00441,4,3,CSE,Python Programming,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-08-09,neutral
+FB00442,4,1,Cyber Security,Data Structures,4,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-04-20,neutral
+FB00443,4,2,CSE,Computer Networks,3,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-05-25,negative
+FB00444,2,8,CSE,Artificial Intelligence,4,Excellent practical sessions and helpful feedback from the instructor.,2026-03-10,positive
+FB00445,1,6,Data Science,Computer Networks,4,The course structure is acceptable and the workload is manageable. I would like more real-world examples.,2026-05-02,neutral
+FB00446,2,3,Data Science,Data Structures,3,The course structure is acceptable and the workload is manageable.,2026-05-10,neutral
+FB00447,2,6,Cyber Security,Artificial Intelligence,5,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-08-02,positive
+FB00448,3,3,AI & ML,Operating Systems,5,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-06-20,positive
+FB00449,2,1,Cyber Security,Data Structures,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-09-03,positive
+FB00450,1,8,CSE,Software Engineering,2,The course moves too fast and there is not enough time for questions.,2026-08-06,negative
+FB00451,4,5,Data Science,Machine Learning,3,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-05-02,neutral
+FB00452,3,7,Cyber Security,Machine Learning,2,Assignments are excessive and do not always match the lectures.,2026-03-10,negative
+FB00453,1,3,Data Science,Artificial Intelligence,4,Excellent practical sessions and helpful feedback from the instructor.,2026-09-04,positive
+FB00454,4,3,CSE,Operating Systems,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-04-18,positive
+FB00455,1,2,CSE,Artificial Intelligence,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-08-12,positive
+FB00456,2,5,CSE,Artificial Intelligence,4,The teacher explains difficult concepts in a simple way.,2026-04-30,positive
+FB00457,3,8,AI & ML,Database Management,4,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-07-31,positive
+FB00458,4,2,AI & ML,Python Programming,5,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-02-23,positive
+FB00459,3,5,Cyber Security,Machine Learning,3,"The content is useful, but the delivery could be improved.",2026-01-29,neutral
+FB00460,3,5,Data Science,Artificial Intelligence,2,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-05-16,negative
+FB00461,2,1,AI & ML,Artificial Intelligence,3,"The instructor provides the required material, but more interaction would help. More student interaction would be helpful.",2026-08-24,neutral
+FB00462,4,3,AI & ML,Database Management,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-07-20,positive
+FB00463,2,6,Data Science,Artificial Intelligence,2,The course moves too fast and there is not enough time for questions.,2026-05-13,negative
+FB00464,1,1,Data Science,Data Structures,4,Assignments were relevant and improved my understanding.,2026-04-04,positive
+FB00465,3,5,Cyber Security,Computer Networks,4,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-04-12,positive
+FB00466,4,7,Cyber Security,Machine Learning,1,The course material is confusing and the workload is difficult to manage.,2026-05-29,negative
+FB00467,4,3,Cyber Security,Machine Learning,4,"The content is useful, but the delivery could be improved.",2026-05-08,neutral
+FB00468,1,6,CSE,Artificial Intelligence,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-07-04,positive
+FB00469,4,2,Data Science,Computer Networks,4,The pace of the course is comfortable and the material is useful.,2026-01-19,positive
+FB00470,3,3,CSE,Machine Learning,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-08-19,positive
+FB00471,4,8,Cyber Security,Software Engineering,5,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-07-06,positive
+FB00472,3,2,AI & ML,Python Programming,5,The lectures are engaging and the teacher answers questions patiently.,2026-04-28,positive
+FB00473,3,8,Data Science,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-03-15,positive
+FB00474,2,5,CSE,Python Programming,4,Assignments were relevant and improved my understanding.,2026-03-09,positive
+FB00475,1,1,Cyber Security,Operating Systems,5,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-04-10,positive
+FB00476,2,5,Cyber Security,Database Management,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-23,positive
+FB00477,2,8,CSE,Operating Systems,4,"The content is useful, but the delivery could be improved.",2026-05-16,neutral
+FB00478,1,7,CSE,Operating Systems,4,Assignments were relevant and improved my understanding.,2026-05-23,positive
+FB00479,2,1,AI & ML,Computer Networks,3,The course moves too fast and there is not enough time for questions.,2026-03-10,negative
+FB00480,2,3,Data Science,Artificial Intelligence,4,The pace of the course is comfortable and the material is useful.,2026-01-10,positive
+FB00481,2,4,Data Science,Database Management,4,The lectures are engaging and the teacher answers questions patiently.,2026-03-04,positive
+FB00482,1,2,AI & ML,Software Engineering,4,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-09-02,positive
+FB00483,1,4,Cyber Security,Computer Networks,4,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-02-27,neutral
+FB00484,4,3,AI & ML,Computer Networks,3,The course structure is acceptable and the workload is manageable.,2026-09-06,neutral
+FB00485,1,4,Cyber Security,Computer Networks,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-05-26,positive
+FB00486,3,1,CSE,Database Management,4,"The content is useful, but the delivery could be improved.",2026-02-16,neutral
+FB00487,3,7,Cyber Security,Artificial Intelligence,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-01-11,positive
+FB00488,3,3,Data Science,Computer Networks,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-05-31,positive
+FB00489,1,8,Data Science,Operating Systems,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-08-09,positive
+FB00490,1,8,AI & ML,Operating Systems,3,"The instructor provides the required material, but more interaction would help.",2026-01-12,neutral
+FB00491,1,6,CSE,Operating Systems,3,There are too many technical issues during practical sessions.,2026-04-20,negative
+FB00492,4,8,AI & ML,Machine Learning,4,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-07-15,positive
+FB00493,2,6,AI & ML,Artificial Intelligence,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-01-12,positive
+FB00494,4,8,AI & ML,Operating Systems,4,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-06-01,positive
+FB00495,2,2,Data Science,Software Engineering,4,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-02-22,positive
+FB00496,4,8,Data Science,Computer Networks,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-07-25,positive
+FB00497,4,2,Data Science,Python Programming,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-03-17,neutral
+FB00498,1,4,AI & ML,Software Engineering,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-05-21,positive
+FB00499,4,2,CSE,Software Engineering,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-05-21,positive
+FB00500,1,7,Cyber Security,Python Programming,4,The course is okay and covers the required topics.,2026-02-02,neutral
+FB00501,3,1,AI & ML,Computer Networks,1,"The course material is confusing and the workload is difficult to manage. Overall, this was my experience.",2026-07-14,negative
+FB00502,4,3,CSE,Database Management,3,The course structure is acceptable and the workload is manageable.,2026-08-11,neutral
+FB00503,3,7,Cyber Security,Data Structures,3,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-01-31,negative
+FB00504,3,5,CSE,Machine Learning,4,The course content is well organized and the instructor is supportive.,2026-05-26,positive
+FB00505,4,1,Data Science,Operating Systems,4,The course content is well organized and the instructor is supportive.,2026-04-10,positive
+FB00506,1,2,Cyber Security,Data Structures,2,The instructor should provide more practical examples and clearer explanations.,2026-06-28,negative
+FB00507,3,8,CSE,Data Structures,3,"The content is useful, but the delivery could be improved.",2026-08-19,neutral
+FB00508,4,2,CSE,Database Management,1,The instructor should provide more practical examples and clearer explanations.,2026-06-13,negative
+FB00509,1,7,Data Science,Machine Learning,2,There are too many technical issues during practical sessions.,2026-07-16,negative
+FB00510,1,7,AI & ML,Artificial Intelligence,4,"The content is useful, but the delivery could be improved.",2026-03-15,neutral
+FB00511,4,3,CSE,Machine Learning,3,"The instructor provides the required material, but more interaction would help.",2026-04-27,neutral
+FB00512,2,3,AI & ML,Artificial Intelligence,4,The teacher explains difficult concepts in a simple way.,2026-08-29,positive
+FB00513,4,6,CSE,Machine Learning,1,The teaching feels repetitive and students do not receive enough feedback. I would like more real-world examples.,2026-06-05,negative
+FB00514,1,2,Data Science,Database Management,3,"The instructor provides the required material, but more interaction would help.",2026-07-16,neutral
+FB00515,2,6,Data Science,Python Programming,2,The teaching feels repetitive and students do not receive enough feedback.,2026-08-18,negative
+FB00516,4,2,CSE,Software Engineering,2,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-01-21,negative
+FB00517,1,8,Cyber Security,Data Structures,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-25,positive
+FB00518,3,5,CSE,Operating Systems,1,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-06-14,negative
+FB00519,2,4,Data Science,Artificial Intelligence,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-06-16,positive
+FB00520,3,7,CSE,Software Engineering,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-03-16,positive
+FB00521,2,1,AI & ML,Operating Systems,5,The pace of the course is comfortable and the material is useful.,2026-02-25,positive
+FB00522,4,1,CSE,Data Structures,4,The teaching is satisfactory but could include more practical examples.,2026-08-14,neutral
+FB00523,4,5,Cyber Security,Artificial Intelligence,4,The teacher explains difficult concepts in a simple way.,2026-01-23,positive
+FB00524,1,4,Cyber Security,Machine Learning,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-01-25,negative
+FB00525,3,2,Cyber Security,Database Management,1,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-02-23,negative
+FB00526,1,4,AI & ML,Computer Networks,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-03-30,positive
+FB00527,2,7,Cyber Security,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor.,2026-08-29,positive
+FB00528,3,2,AI & ML,Machine Learning,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-02-24,positive
+FB00529,3,2,Data Science,Artificial Intelligence,4,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-09-03,positive
+FB00530,2,6,AI & ML,Machine Learning,4,"Most topics were covered, although some lectures felt average.",2026-05-11,neutral
+FB00531,1,1,AI & ML,Software Engineering,3,There are too many technical issues during practical sessions.,2026-01-29,negative
+FB00532,2,3,AI & ML,Artificial Intelligence,3,The course is okay and covers the required topics. More student interaction would be helpful.,2026-01-16,neutral
+FB00533,2,3,Data Science,Artificial Intelligence,4,"Most topics were covered, although some lectures felt average. I would like more real-world examples.",2026-02-01,neutral
+FB00534,4,7,Cyber Security,Operating Systems,5,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-06-14,positive
+FB00535,1,2,AI & ML,Software Engineering,1,There are too many technical issues during practical sessions.,2026-02-01,negative
+FB00536,3,6,AI & ML,Python Programming,5,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-07-08,positive
+FB00537,2,7,CSE,Artificial Intelligence,5,Assignments were relevant and improved my understanding.,2026-07-23,positive
+FB00538,4,8,Data Science,Computer Networks,3,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-02-25,negative
+FB00539,1,2,Data Science,Database Management,3,"Most topics were covered, although some lectures felt average.",2026-02-02,neutral
+FB00540,2,2,CSE,Operating Systems,4,The instructor explains concepts clearly and uses useful examples.,2026-03-28,positive
+FB00541,2,2,AI & ML,Software Engineering,3,"The instructor often skips important concepts. Overall, this was my experience.",2026-05-23,negative
+FB00542,2,1,Cyber Security,Artificial Intelligence,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-05-22,positive
+FB00543,4,1,AI & ML,Python Programming,5,The pace of the course is comfortable and the material is useful.,2026-03-25,positive
+FB00544,3,3,AI & ML,Machine Learning,3,The teaching is satisfactory but could include more practical examples.,2026-05-04,neutral
+FB00545,4,3,Cyber Security,Database Management,4,The instructor explains concepts clearly and uses useful examples.,2026-02-12,positive
+FB00546,3,5,Data Science,Artificial Intelligence,3,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-07-25,negative
+FB00547,1,6,Data Science,Computer Networks,3,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-01-18,neutral
+FB00548,3,1,Data Science,Data Structures,4,The instructor explains concepts clearly and uses useful examples.,2026-04-21,positive
+FB00549,3,6,Data Science,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently.,2026-05-07,positive
+FB00550,2,7,CSE,Data Structures,4,The course is okay and covers the required topics. More student interaction would be helpful.,2026-01-16,neutral
+FB00551,4,1,Data Science,Database Management,3,The instructor should provide more practical examples and clearer explanations.,2026-01-21,negative
+FB00552,1,1,Cyber Security,Python Programming,4,The lectures are engaging and the teacher answers questions patiently.,2026-08-22,positive
+FB00553,1,2,Data Science,Python Programming,3,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-02-03,neutral
+FB00554,2,7,Data Science,Data Structures,4,Excellent practical sessions and helpful feedback from the instructor.,2026-07-21,positive
+FB00555,4,8,Data Science,Artificial Intelligence,3,The teaching is satisfactory but could include more practical examples. More student interaction would be helpful.,2026-03-04,neutral
+FB00556,1,4,CSE,Data Structures,1,The instructor should provide more practical examples and clearer explanations.,2026-04-04,negative
+FB00557,3,2,CSE,Operating Systems,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-07-26,neutral
+FB00558,3,7,Cyber Security,Data Structures,5,The lectures are engaging and the teacher answers questions patiently.,2026-05-31,positive
+FB00559,1,8,AI & ML,Machine Learning,2,Assignments are excessive and do not always match the lectures.,2026-03-29,negative
+FB00560,2,5,Data Science,Data Structures,4,The teaching is satisfactory but could include more practical examples.,2026-06-19,neutral
+FB00561,3,2,CSE,Operating Systems,4,The lectures are engaging and the teacher answers questions patiently.,2026-03-30,positive
+FB00562,2,1,Cyber Security,Artificial Intelligence,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-01-18,neutral
+FB00563,2,5,AI & ML,Operating Systems,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-08-17,negative
+FB00564,4,4,Cyber Security,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-05-23,positive
+FB00565,4,5,CSE,Data Structures,5,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-03-15,positive
+FB00566,1,2,Data Science,Python Programming,4,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-08-20,positive
+FB00567,3,7,AI & ML,Artificial Intelligence,4,The teacher explains difficult concepts in a simple way.,2026-07-29,positive
+FB00568,4,4,Data Science,Database Management,4,"Most topics were covered, although some lectures felt average. More student interaction would be helpful.",2026-03-11,neutral
+FB00569,1,5,Data Science,Artificial Intelligence,4,"The instructor provides the required material, but more interaction would help.",2026-01-23,neutral
+FB00570,4,6,AI & ML,Machine Learning,4,Assignments were relevant and improved my understanding.,2026-08-02,positive
+FB00571,2,3,AI & ML,Database Management,1,The instructor should provide more practical examples and clearer explanations.,2026-05-16,negative
+FB00572,4,6,Data Science,Data Structures,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-05-23,positive
+FB00573,3,8,CSE,Computer Networks,1,The instructor should provide more practical examples and clearer explanations.,2026-03-28,negative
+FB00574,1,1,AI & ML,Software Engineering,4,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-04-07,positive
+FB00575,4,3,CSE,Software Engineering,3,The course moves too fast and there is not enough time for questions.,2026-07-26,negative
+FB00576,1,2,Cyber Security,Operating Systems,3,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-07-16,neutral
+FB00577,4,3,CSE,Computer Networks,1,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-07-18,negative
+FB00578,4,1,Data Science,Computer Networks,5,The course content is well organized and the instructor is supportive.,2026-03-23,positive
+FB00579,2,7,Data Science,Computer Networks,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-04-18,positive
+FB00580,4,2,Cyber Security,Database Management,4,"The instructor provides the required material, but more interaction would help.",2026-05-25,neutral
+FB00581,3,5,Data Science,Data Structures,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-07-08,positive
+FB00582,2,3,Data Science,Software Engineering,3,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-01-10,neutral
+FB00583,4,2,Data Science,Operating Systems,2,"The teaching feels repetitive and students do not receive enough feedback. Overall, this was my experience.",2026-07-10,negative
+FB00584,3,4,AI & ML,Artificial Intelligence,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-06-13,positive
+FB00585,4,5,Data Science,Computer Networks,3,"The course is okay and covers the required topics. Overall, this was my experience.",2026-03-17,neutral
+FB00586,4,4,Cyber Security,Software Engineering,1,The teaching feels repetitive and students do not receive enough feedback. I would like more real-world examples.,2026-07-10,negative
+FB00587,4,5,Data Science,Artificial Intelligence,4,"The content is useful, but the delivery could be improved.",2026-08-06,neutral
+FB00588,2,6,AI & ML,Software Engineering,5,Assignments were relevant and improved my understanding.,2026-02-15,positive
+FB00589,1,1,CSE,Machine Learning,3,The instructor often skips important concepts.,2026-02-18,negative
+FB00590,3,7,AI & ML,Data Structures,3,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-03-23,neutral
+FB00591,1,2,CSE,Operating Systems,2,"The course material is confusing and the workload is difficult to manage. Overall, this was my experience.",2026-05-03,negative
+FB00592,4,4,Cyber Security,Operating Systems,3,"The content is useful, but the delivery could be improved. More student interaction would be helpful.",2026-05-22,neutral
+FB00593,4,8,CSE,Artificial Intelligence,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-08-20,positive
+FB00594,3,1,Cyber Security,Software Engineering,4,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-02-23,neutral
+FB00595,2,5,Cyber Security,Data Structures,1,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-03-24,negative
+FB00596,2,3,CSE,Artificial Intelligence,3,The instructor often skips important concepts.,2026-04-12,negative
+FB00597,1,1,Cyber Security,Operating Systems,1,The instructor should provide more practical examples and clearer explanations.,2026-07-19,negative
+FB00598,4,8,CSE,Machine Learning,4,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-05-06,positive
+FB00599,2,2,Cyber Security,Computer Networks,1,The instructor should provide more practical examples and clearer explanations.,2026-01-30,negative
+FB00600,4,3,Cyber Security,Data Structures,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-04-25,positive
+FB00601,1,4,Cyber Security,Python Programming,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-01-10,positive
+FB00602,1,3,Data Science,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently.,2026-03-29,positive
+FB00603,3,4,CSE,Database Management,4,The course is okay and covers the required topics. More student interaction would be helpful.,2026-02-17,neutral
+FB00604,2,6,CSE,Data Structures,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-07-29,positive
+FB00605,3,8,Data Science,Data Structures,4,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-02-24,neutral
+FB00606,2,4,Data Science,Database Management,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-01-24,positive
+FB00607,3,6,CSE,Operating Systems,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-01-17,negative
+FB00608,4,3,CSE,Data Structures,3,The course material is confusing and the workload is difficult to manage.,2026-04-13,negative
+FB00609,1,8,CSE,Artificial Intelligence,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-02-27,positive
+FB00610,2,6,Cyber Security,Artificial Intelligence,5,Excellent practical sessions and helpful feedback from the instructor.,2026-01-23,positive
+FB00611,3,4,AI & ML,Database Management,4,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-04-20,positive
+FB00612,3,8,CSE,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-06-05,positive
+FB00613,4,3,CSE,Software Engineering,5,The instructor explains concepts clearly and uses useful examples.,2026-05-27,positive
+FB00614,1,8,CSE,Operating Systems,4,The pace of the course is comfortable and the material is useful.,2026-05-06,positive
+FB00615,4,5,Data Science,Database Management,5,Excellent practical sessions and helpful feedback from the instructor.,2026-04-11,positive
+FB00616,3,2,Cyber Security,Software Engineering,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-04-21,positive
+FB00617,2,6,Cyber Security,Machine Learning,4,Assignments were relevant and improved my understanding.,2026-03-09,positive
+FB00618,1,6,CSE,Data Structures,3,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-06-19,neutral
+FB00619,4,8,Cyber Security,Artificial Intelligence,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-07-10,positive
+FB00620,4,7,Cyber Security,Artificial Intelligence,2,The instructor often skips important concepts. I would like more real-world examples.,2026-05-04,negative
+FB00621,2,6,Cyber Security,Python Programming,4,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-07-20,neutral
+FB00622,4,5,Cyber Security,Data Structures,1,The teaching feels repetitive and students do not receive enough feedback.,2026-08-15,negative
+FB00623,4,2,CSE,Computer Networks,3,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-07-02,neutral
+FB00624,1,1,Cyber Security,Python Programming,2,There are too many technical issues during practical sessions.,2026-05-12,negative
+FB00625,4,7,CSE,Artificial Intelligence,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-02-27,positive
+FB00626,4,6,CSE,Database Management,5,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-04-02,positive
+FB00627,1,2,Cyber Security,Computer Networks,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-03-29,positive
+FB00628,4,7,Data Science,Data Structures,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-03-31,positive
+FB00629,4,4,Data Science,Operating Systems,4,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-07-25,neutral
+FB00630,1,7,Cyber Security,Machine Learning,2,Assignments are excessive and do not always match the lectures.,2026-08-28,negative
+FB00631,1,3,Data Science,Operating Systems,4,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-08-20,positive
+FB00632,3,1,AI & ML,Operating Systems,2,The teaching feels repetitive and students do not receive enough feedback.,2026-03-28,negative
+FB00633,3,5,Data Science,Computer Networks,4,Excellent practical sessions and helpful feedback from the instructor.,2026-07-15,positive
+FB00634,1,1,CSE,Artificial Intelligence,4,The instructor explains concepts clearly and uses useful examples.,2026-02-21,positive
+FB00635,3,5,Cyber Security,Database Management,4,The instructor explains concepts clearly and uses useful examples.,2026-07-20,positive
+FB00636,1,6,CSE,Database Management,4,"The content is useful, but the delivery could be improved.",2026-04-13,neutral
+FB00637,4,6,Cyber Security,Computer Networks,4,The instructor explains concepts clearly and uses useful examples.,2026-06-09,positive
+FB00638,3,3,CSE,Data Structures,4,The course structure is acceptable and the workload is manageable.,2026-03-29,neutral
+FB00639,3,7,CSE,Artificial Intelligence,2,"The course material is confusing and the workload is difficult to manage. Overall, this was my experience.",2026-05-02,negative
+FB00640,1,7,Cyber Security,Computer Networks,5,The instructor explains concepts clearly and uses useful examples.,2026-03-18,positive
+FB00641,3,1,Cyber Security,Software Engineering,4,"The content is useful, but the delivery could be improved. Overall, this was my experience.",2026-05-12,neutral
+FB00642,2,5,CSE,Artificial Intelligence,1,The course material is confusing and the workload is difficult to manage. I would like more real-world examples.,2026-03-17,negative
+FB00643,1,4,Cyber Security,Data Structures,4,Excellent practical sessions and helpful feedback from the instructor.,2026-04-25,positive
+FB00644,1,8,Data Science,Machine Learning,3,"Most topics were covered, although some lectures felt average.",2026-04-02,neutral
+FB00645,2,2,Data Science,Operating Systems,1,The teaching feels repetitive and students do not receive enough feedback.,2026-05-02,negative
+FB00646,1,5,Cyber Security,Operating Systems,4,Excellent practical sessions and helpful feedback from the instructor.,2026-04-18,positive
+FB00647,2,3,Data Science,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-08-17,positive
+FB00648,1,5,Cyber Security,Machine Learning,4,"The content is useful, but the delivery could be improved.",2026-08-01,neutral
+FB00649,3,4,Data Science,Operating Systems,3,The instructor should provide more practical examples and clearer explanations.,2026-05-15,negative
+FB00650,2,7,AI & ML,Artificial Intelligence,1,"The instructor often skips important concepts. Overall, this was my experience.",2026-02-25,negative
+FB00651,3,1,CSE,Artificial Intelligence,5,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-06-19,positive
+FB00652,4,2,Data Science,Machine Learning,3,The instructor should provide more practical examples and clearer explanations. More student interaction would be helpful.,2026-05-03,negative
+FB00653,2,4,Data Science,Software Engineering,1,Assignments are excessive and do not always match the lectures.,2026-05-20,negative
+FB00654,4,2,CSE,Database Management,3,"The instructor provides the required material, but more interaction would help.",2026-08-19,neutral
+FB00655,4,1,AI & ML,Machine Learning,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-08-16,positive
+FB00656,1,5,CSE,Machine Learning,4,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-03-14,neutral
+FB00657,1,3,AI & ML,Software Engineering,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-02-23,positive
+FB00658,4,3,AI & ML,Operating Systems,5,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-01-31,positive
+FB00659,4,6,Cyber Security,Python Programming,2,There are too many technical issues during practical sessions.,2026-06-30,negative
+FB00660,4,6,AI & ML,Machine Learning,4,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-04-15,positive
+FB00661,2,8,CSE,Database Management,4,Assignments were relevant and improved my understanding.,2026-01-31,positive
+FB00662,1,6,Cyber Security,Artificial Intelligence,3,The course structure is acceptable and the workload is manageable.,2026-02-13,neutral
+FB00663,1,8,AI & ML,Operating Systems,3,"The instructor provides the required material, but more interaction would help.",2026-02-12,neutral
+FB00664,2,1,Data Science,Data Structures,3,"The content is useful, but the delivery could be improved. Overall, this was my experience.",2026-03-07,neutral
+FB00665,2,1,Cyber Security,Computer Networks,4,The lectures are engaging and the teacher answers questions patiently.,2026-09-06,positive
+FB00666,2,1,AI & ML,Data Structures,3,The teaching feels repetitive and students do not receive enough feedback.,2026-01-13,negative
+FB00667,1,6,Data Science,Database Management,5,Excellent practical sessions and helpful feedback from the instructor.,2026-04-05,positive
+FB00668,1,1,CSE,Python Programming,2,The instructor should provide more practical examples and clearer explanations.,2026-02-15,negative
+FB00669,1,2,Cyber Security,Artificial Intelligence,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-01-20,positive
+FB00670,2,8,AI & ML,Database Management,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-07-02,neutral
+FB00671,4,6,Cyber Security,Database Management,4,The pace of the course is comfortable and the material is useful.,2026-08-25,positive
+FB00672,4,4,Data Science,Data Structures,3,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-04-05,neutral
+FB00673,2,6,CSE,Python Programming,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-08-01,neutral
+FB00674,4,6,AI & ML,Operating Systems,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-08-19,positive
+FB00675,2,3,CSE,Machine Learning,3,The course structure is acceptable and the workload is manageable.,2026-07-01,neutral
+FB00676,2,6,Cyber Security,Database Management,2,The course moves too fast and there is not enough time for questions. I would like more real-world examples.,2026-08-01,negative
+FB00677,4,4,Cyber Security,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-06-27,positive
+FB00678,4,6,CSE,Operating Systems,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-06-25,positive
+FB00679,3,5,CSE,Software Engineering,2,The instructor often skips important concepts.,2026-02-20,negative
+FB00680,3,1,AI & ML,Software Engineering,4,Excellent practical sessions and helpful feedback from the instructor.,2026-04-28,positive
+FB00681,2,4,Data Science,Software Engineering,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-19,positive
+FB00682,1,4,AI & ML,Operating Systems,3,"The course is okay and covers the required topics. Overall, this was my experience.",2026-07-12,neutral
+FB00683,2,2,Data Science,Data Structures,1,The instructor should provide more practical examples and clearer explanations.,2026-06-08,negative
+FB00684,3,4,Data Science,Computer Networks,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-03-24,neutral
+FB00685,3,5,Cyber Security,Computer Networks,1,The course material is confusing and the workload is difficult to manage.,2026-05-14,negative
+FB00686,3,3,Cyber Security,Database Management,5,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-03-15,positive
+FB00687,2,6,Cyber Security,Artificial Intelligence,3,"Most topics were covered, although some lectures felt average. More student interaction would be helpful.",2026-07-20,neutral
+FB00688,1,1,Data Science,Python Programming,2,The instructor should provide more practical examples and clearer explanations.,2026-05-05,negative
+FB00689,3,1,CSE,Data Structures,3,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-05-12,negative
+FB00690,4,7,Data Science,Data Structures,4,"Most topics were covered, although some lectures felt average.",2026-07-19,neutral
+FB00691,2,5,CSE,Computer Networks,5,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-03-12,positive
+FB00692,2,8,AI & ML,Computer Networks,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-05-19,positive
+FB00693,1,4,Cyber Security,Machine Learning,5,The course content is well organized and the instructor is supportive.,2026-01-27,positive
+FB00694,2,5,Cyber Security,Database Management,5,The lectures are engaging and the teacher answers questions patiently.,2026-04-15,positive
+FB00695,2,4,Data Science,Operating Systems,3,The course is okay and covers the required topics.,2026-04-30,neutral
+FB00696,2,6,Cyber Security,Data Structures,1,The course moves too fast and there is not enough time for questions. I would like more real-world examples.,2026-05-23,negative
+FB00697,4,2,Data Science,Python Programming,4,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-02-09,neutral
+FB00698,4,6,AI & ML,Software Engineering,4,"Most topics were covered, although some lectures felt average.",2026-02-11,neutral
+FB00699,3,8,Data Science,Artificial Intelligence,4,The pace of the course is comfortable and the material is useful.,2026-07-29,positive
+FB00700,4,6,AI & ML,Software Engineering,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-02-03,positive
+FB00701,3,1,Data Science,Software Engineering,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-07-09,positive
+FB00702,1,7,Data Science,Data Structures,5,The teacher explains difficult concepts in a simple way.,2026-04-05,positive
+FB00703,1,1,Data Science,Database Management,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-01-27,positive
+FB00704,1,6,CSE,Computer Networks,1,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-02-15,negative
+FB00705,1,8,Data Science,Computer Networks,5,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-03-12,positive
+FB00706,4,6,AI & ML,Artificial Intelligence,2,The course material is confusing and the workload is difficult to manage.,2026-02-20,negative
+FB00707,3,6,Cyber Security,Software Engineering,4,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-07-27,positive
+FB00708,2,4,Cyber Security,Database Management,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-01-14,positive
+FB00709,1,2,AI & ML,Computer Networks,4,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-05-17,positive
+FB00710,2,5,Cyber Security,Software Engineering,2,The course material is confusing and the workload is difficult to manage.,2026-03-17,negative
+FB00711,4,8,Data Science,Operating Systems,2,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-05-12,negative
+FB00712,4,5,Cyber Security,Computer Networks,5,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-05-04,positive
+FB00713,1,5,CSE,Software Engineering,3,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-08-03,negative
+FB00714,2,2,Data Science,Python Programming,5,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-02-10,positive
+FB00715,1,5,Cyber Security,Software Engineering,3,The instructor often skips important concepts.,2026-06-04,negative
+FB00716,3,5,Cyber Security,Computer Networks,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-04-16,positive
+FB00717,3,7,CSE,Database Management,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-06-30,positive
+FB00718,1,4,Data Science,Data Structures,1,Assignments are excessive and do not always match the lectures.,2026-04-02,negative
+FB00719,4,2,CSE,Python Programming,3,"The lectures are difficult to follow and the concepts are not explained clearly. Overall, this was my experience.",2026-07-25,negative
+FB00720,4,1,Cyber Security,Python Programming,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-04-15,positive
+FB00721,1,7,AI & ML,Software Engineering,3,"The instructor often skips important concepts. Overall, this was my experience.",2026-05-22,negative
+FB00722,4,8,AI & ML,Operating Systems,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-08-23,positive
+FB00723,1,3,AI & ML,Software Engineering,4,The pace of the course is comfortable and the material is useful.,2026-01-15,positive
+FB00724,1,6,Data Science,Machine Learning,3,The course structure is acceptable and the workload is manageable. I would like more real-world examples.,2026-03-07,neutral
+FB00725,4,6,Data Science,Computer Networks,2,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-07-28,negative
+FB00726,1,4,Cyber Security,Data Structures,5,The pace of the course is comfortable and the material is useful.,2026-06-24,positive
+FB00727,3,6,AI & ML,Python Programming,2,The teaching feels repetitive and students do not receive enough feedback.,2026-05-20,negative
+FB00728,1,4,CSE,Python Programming,4,"The content is useful, but the delivery could be improved. More student interaction would be helpful.",2026-05-31,neutral
+FB00729,1,4,Data Science,Machine Learning,4,The teacher explains difficult concepts in a simple way.,2026-02-18,positive
+FB00730,1,6,Cyber Security,Data Structures,4,The teaching is satisfactory but could include more practical examples.,2026-01-16,neutral
+FB00731,2,1,Cyber Security,Artificial Intelligence,3,"The instructor provides the required material, but more interaction would help.",2026-08-17,neutral
+FB00732,3,5,AI & ML,Machine Learning,5,Assignments were relevant and improved my understanding.,2026-07-11,positive
+FB00733,2,5,AI & ML,Computer Networks,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-07-10,neutral
+FB00734,3,5,AI & ML,Artificial Intelligence,5,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-03-16,positive
+FB00735,2,3,Cyber Security,Python Programming,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-02-18,positive
+FB00736,1,6,CSE,Software Engineering,5,The teacher explains difficult concepts in a simple way.,2026-07-15,positive
+FB00737,3,3,CSE,Operating Systems,3,"The content is useful, but the delivery could be improved.",2026-02-22,neutral
+FB00738,2,5,AI & ML,Artificial Intelligence,4,The teaching is satisfactory but could include more practical examples.,2026-02-12,neutral
+FB00739,4,7,Cyber Security,Machine Learning,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-04-09,positive
+FB00740,1,3,CSE,Database Management,4,"The course is okay and covers the required topics. Overall, this was my experience.",2026-03-23,neutral
+FB00741,4,5,AI & ML,Software Engineering,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-04-29,positive
+FB00742,1,2,Cyber Security,Artificial Intelligence,4,The course content is well organized and the instructor is supportive.,2026-08-31,positive
+FB00743,2,6,AI & ML,Operating Systems,4,"The content is useful, but the delivery could be improved. Overall, this was my experience.",2026-05-30,neutral
+FB00744,2,3,CSE,Data Structures,5,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-08-30,positive
+FB00745,3,8,Cyber Security,Software Engineering,5,Excellent practical sessions and helpful feedback from the instructor.,2026-03-07,positive
+FB00746,1,8,CSE,Machine Learning,1,The instructor often skips important concepts.,2026-06-16,negative
+FB00747,4,4,CSE,Software Engineering,4,"The content is useful, but the delivery could be improved.",2026-06-11,neutral
+FB00748,2,3,Cyber Security,Data Structures,2,The course material is confusing and the workload is difficult to manage.,2026-02-05,negative
+FB00749,4,2,Cyber Security,Operating Systems,5,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-02-04,positive
+FB00750,2,2,Cyber Security,Machine Learning,5,The instructor explains concepts clearly and uses useful examples.,2026-07-13,positive
+FB00751,2,1,AI & ML,Computer Networks,5,The teacher explains difficult concepts in a simple way.,2026-04-15,positive
+FB00752,2,7,Data Science,Python Programming,4,Excellent practical sessions and helpful feedback from the instructor.,2026-05-13,positive
+FB00753,2,6,CSE,Python Programming,1,The instructor often skips important concepts.,2026-03-22,negative
+FB00754,2,8,Cyber Security,Software Engineering,2,The instructor often skips important concepts.,2026-08-02,negative
+FB00755,3,7,AI & ML,Software Engineering,3,"The lectures are difficult to follow and the concepts are not explained clearly. Overall, this was my experience.",2026-05-22,negative
+FB00756,2,5,Data Science,Machine Learning,3,The course material is confusing and the workload is difficult to manage.,2026-01-31,negative
+FB00757,2,8,AI & ML,Data Structures,3,"Most topics were covered, although some lectures felt average. More student interaction would be helpful.",2026-01-17,neutral
+FB00758,2,6,Cyber Security,Data Structures,2,The course material is confusing and the workload is difficult to manage.,2026-03-11,negative
+FB00759,3,2,AI & ML,Computer Networks,3,"Most topics were covered, although some lectures felt average.",2026-06-21,neutral
+FB00760,3,4,AI & ML,Database Management,5,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-06-27,positive
+FB00761,4,1,AI & ML,Artificial Intelligence,3,The instructor often skips important concepts.,2026-06-17,negative
+FB00762,3,5,CSE,Machine Learning,3,The course moves too fast and there is not enough time for questions.,2026-08-08,negative
+FB00763,1,3,Cyber Security,Software Engineering,4,The teacher explains difficult concepts in a simple way.,2026-01-28,positive
+FB00764,4,8,Cyber Security,Operating Systems,4,The course structure is acceptable and the workload is manageable.,2026-09-02,neutral
+FB00765,4,1,Data Science,Data Structures,4,The course structure is acceptable and the workload is manageable. I would like more real-world examples.,2026-08-10,neutral
+FB00766,1,4,AI & ML,Data Structures,5,Excellent practical sessions and helpful feedback from the instructor.,2026-09-01,positive
+FB00767,2,4,Data Science,Database Management,5,The lectures are engaging and the teacher answers questions patiently.,2026-08-19,positive
+FB00768,2,8,Cyber Security,Software Engineering,3,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-03-03,negative
+FB00769,2,1,Data Science,Operating Systems,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-05-02,positive
+FB00770,3,5,CSE,Operating Systems,5,Assignments were relevant and improved my understanding.,2026-05-12,positive
+FB00771,4,5,AI & ML,Operating Systems,5,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-06-08,positive
+FB00772,2,3,CSE,Data Structures,1,There are too many technical issues during practical sessions.,2026-04-27,negative
+FB00773,1,7,CSE,Machine Learning,5,Assignments were relevant and improved my understanding.,2026-06-24,positive
+FB00774,1,1,CSE,Computer Networks,5,The pace of the course is comfortable and the material is useful.,2026-01-19,positive
+FB00775,1,7,CSE,Python Programming,5,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-05-01,positive
+FB00776,1,6,CSE,Python Programming,3,The teaching feels repetitive and students do not receive enough feedback. I would like more real-world examples.,2026-08-06,negative
+FB00777,1,3,Data Science,Python Programming,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-08-17,negative
+FB00778,2,6,Cyber Security,Software Engineering,4,The lectures are engaging and the teacher answers questions patiently.,2026-04-01,positive
+FB00779,2,8,AI & ML,Python Programming,2,The course material is confusing and the workload is difficult to manage.,2026-03-18,negative
+FB00780,1,6,AI & ML,Python Programming,3,"The instructor provides the required material, but more interaction would help.",2026-08-07,neutral
+FB00781,3,7,Cyber Security,Database Management,2,The instructor often skips important concepts.,2026-04-03,negative
+FB00782,3,1,CSE,Operating Systems,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-03-09,positive
+FB00783,3,4,CSE,Data Structures,3,"The instructor provides the required material, but more interaction would help. More student interaction would be helpful.",2026-05-04,neutral
+FB00784,2,7,CSE,Software Engineering,4,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-04-09,neutral
+FB00785,2,4,AI & ML,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor.,2026-04-03,positive
+FB00786,4,4,Data Science,Machine Learning,2,The instructor should provide more practical examples and clearer explanations.,2026-02-25,negative
+FB00787,1,4,CSE,Data Structures,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-05-20,positive
+FB00788,2,6,Cyber Security,Database Management,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-03-13,positive
+FB00789,4,1,CSE,Operating Systems,3,"The instructor provides the required material, but more interaction would help.",2026-03-07,neutral
+FB00790,1,3,AI & ML,Database Management,1,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-06-12,negative
+FB00791,2,5,AI & ML,Data Structures,4,The instructor explains concepts clearly and uses useful examples.,2026-01-18,positive
+FB00792,1,8,AI & ML,Data Structures,4,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-05-17,positive
+FB00793,3,4,CSE,Operating Systems,5,The lectures are engaging and the teacher answers questions patiently.,2026-09-04,positive
+FB00794,3,4,Cyber Security,Python Programming,4,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-05-11,positive
+FB00795,3,6,AI & ML,Artificial Intelligence,5,The teacher explains difficult concepts in a simple way.,2026-06-29,positive
+FB00796,2,8,AI & ML,Python Programming,3,The teaching is satisfactory but could include more practical examples.,2026-01-27,neutral
+FB00797,3,5,CSE,Operating Systems,5,The course content is well organized and the instructor is supportive.,2026-09-06,positive
+FB00798,4,2,CSE,Operating Systems,3,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-07-08,negative
+FB00799,1,7,CSE,Software Engineering,4,The lectures are engaging and the teacher answers questions patiently. I would like more real-world examples.,2026-08-27,positive
+FB00800,2,6,Cyber Security,Artificial Intelligence,5,The lectures are engaging and the teacher answers questions patiently.,2026-07-10,positive
+FB00801,2,4,Cyber Security,Software Engineering,4,The lectures are engaging and the teacher answers questions patiently.,2026-07-04,positive
+FB00802,3,2,Data Science,Data Structures,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-06-22,positive
+FB00803,1,2,AI & ML,Operating Systems,3,"Most topics were covered, although some lectures felt average. More student interaction would be helpful.",2026-05-10,neutral
+FB00804,2,4,Data Science,Computer Networks,4,"The content is useful, but the delivery could be improved. Overall, this was my experience.",2026-06-27,neutral
+FB00805,2,7,Cyber Security,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-16,positive
+FB00806,3,2,CSE,Operating Systems,4,The course is okay and covers the required topics.,2026-07-27,neutral
+FB00807,1,1,Cyber Security,Computer Networks,5,The course content is well organized and the instructor is supportive.,2026-04-21,positive
+FB00808,2,5,AI & ML,Machine Learning,4,The teacher explains difficult concepts in a simple way.,2026-06-16,positive
+FB00809,3,1,Cyber Security,Database Management,4,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-02-09,positive
+FB00810,3,5,AI & ML,Artificial Intelligence,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-03-17,positive
+FB00811,4,7,Data Science,Software Engineering,3,The course is okay and covers the required topics. More student interaction would be helpful.,2026-02-06,neutral
+FB00812,3,3,CSE,Artificial Intelligence,4,The course content is well organized and the instructor is supportive.,2026-03-09,positive
+FB00813,3,7,AI & ML,Artificial Intelligence,4,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-06-22,neutral
+FB00814,3,7,Data Science,Database Management,5,The pace of the course is comfortable and the material is useful.,2026-04-01,positive
+FB00815,3,7,CSE,Operating Systems,1,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-09-06,negative
+FB00816,2,6,Data Science,Data Structures,4,The pace of the course is comfortable and the material is useful.,2026-05-05,positive
+FB00817,4,6,CSE,Operating Systems,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-03-20,positive
+FB00818,3,3,Cyber Security,Artificial Intelligence,4,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-02-08,positive
+FB00819,2,1,CSE,Software Engineering,3,"Most topics were covered, although some lectures felt average.",2026-08-23,neutral
+FB00820,3,5,Cyber Security,Machine Learning,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-04-17,positive
+FB00821,4,6,CSE,Data Structures,5,The teacher explains difficult concepts in a simple way.,2026-04-01,positive
+FB00822,2,5,Cyber Security,Python Programming,4,The teacher explains difficult concepts in a simple way.,2026-06-10,positive
+FB00823,1,7,CSE,Software Engineering,2,Assignments are excessive and do not always match the lectures.,2026-07-02,negative
+FB00824,1,2,Data Science,Operating Systems,4,The course structure is acceptable and the workload is manageable.,2026-09-03,neutral
+FB00825,4,7,Data Science,Operating Systems,4,The course structure is acceptable and the workload is manageable. I would like more real-world examples.,2026-06-24,neutral
+FB00826,4,6,AI & ML,Software Engineering,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-03-07,positive
+FB00827,3,2,AI & ML,Operating Systems,3,The teaching feels repetitive and students do not receive enough feedback.,2026-02-17,negative
+FB00828,1,1,CSE,Machine Learning,3,The course structure is acceptable and the workload is manageable.,2026-03-27,neutral
+FB00829,1,2,CSE,Operating Systems,5,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-08-07,positive
+FB00830,1,7,Cyber Security,Database Management,3,"Most topics were covered, although some lectures felt average.",2026-08-17,neutral
+FB00831,1,2,CSE,Data Structures,3,There are too many technical issues during practical sessions.,2026-03-30,negative
+FB00832,1,4,AI & ML,Database Management,4,The course structure is acceptable and the workload is manageable.,2026-08-03,neutral
+FB00833,1,8,AI & ML,Software Engineering,4,"Most topics were covered, although some lectures felt average.",2026-05-03,neutral
+FB00834,3,3,Cyber Security,Operating Systems,4,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-02-18,positive
+FB00835,3,7,Data Science,Python Programming,5,The teacher explains difficult concepts in a simple way.,2026-04-16,positive
+FB00836,3,7,AI & ML,Machine Learning,4,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-03-20,positive
+FB00837,2,5,Cyber Security,Database Management,4,"The instructor provides the required material, but more interaction would help.",2026-07-30,neutral
+FB00838,3,7,CSE,Computer Networks,1,"The instructor should provide more practical examples and clearer explanations. Overall, this was my experience.",2026-03-28,negative
+FB00839,4,1,AI & ML,Python Programming,3,The course structure is acceptable and the workload is manageable.,2026-05-15,neutral
+FB00840,1,5,Cyber Security,Software Engineering,4,The teaching is satisfactory but could include more practical examples.,2026-07-12,neutral
+FB00841,2,4,AI & ML,Data Structures,4,The lectures are engaging and the teacher answers questions patiently.,2026-09-06,positive
+FB00842,4,7,AI & ML,Software Engineering,5,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-04-21,positive
+FB00843,2,1,Data Science,Operating Systems,4,"The instructor provides the required material, but more interaction would help.",2026-05-21,neutral
+FB00844,1,8,CSE,Computer Networks,3,The course structure is acceptable and the workload is manageable.,2026-02-13,neutral
+FB00845,2,4,CSE,Data Structures,1,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-05-10,negative
+FB00846,3,5,Cyber Security,Artificial Intelligence,4,The course content is well organized and the instructor is supportive.,2026-03-04,positive
+FB00847,3,7,AI & ML,Computer Networks,3,"Most topics were covered, although some lectures felt average.",2026-05-29,neutral
+FB00848,2,5,Cyber Security,Software Engineering,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-04-19,positive
+FB00849,4,7,CSE,Computer Networks,1,There are too many technical issues during practical sessions.,2026-04-07,negative
+FB00850,3,5,Cyber Security,Software Engineering,3,"The lectures are difficult to follow and the concepts are not explained clearly. Overall, this was my experience.",2026-08-04,negative
+FB00851,3,6,Cyber Security,Data Structures,3,"The instructor provides the required material, but more interaction would help.",2026-04-28,neutral
+FB00852,4,3,AI & ML,Computer Networks,5,Excellent practical sessions and helpful feedback from the instructor.,2026-06-05,positive
+FB00853,4,2,Data Science,Python Programming,1,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-07-13,negative
+FB00854,2,1,CSE,Database Management,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-05-23,positive
+FB00855,1,7,Cyber Security,Artificial Intelligence,3,The course structure is acceptable and the workload is manageable.,2026-09-01,neutral
+FB00856,2,3,Cyber Security,Software Engineering,5,The pace of the course is comfortable and the material is useful.,2026-05-10,positive
+FB00857,4,6,Data Science,Machine Learning,5,The lectures are engaging and the teacher answers questions patiently.,2026-05-25,positive
+FB00858,4,1,Cyber Security,Python Programming,4,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-05-06,positive
+FB00859,1,8,CSE,Operating Systems,1,There are too many technical issues during practical sessions.,2026-03-03,negative
+FB00860,3,3,CSE,Machine Learning,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-03-23,positive
+FB00861,2,5,Data Science,Database Management,3,The instructor should provide more practical examples and clearer explanations. More student interaction would be helpful.,2026-07-05,negative
+FB00862,2,6,Data Science,Python Programming,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-06-09,positive
+FB00863,1,2,AI & ML,Artificial Intelligence,3,The instructor often skips important concepts.,2026-01-11,negative
+FB00864,2,5,AI & ML,Data Structures,4,"The content is useful, but the delivery could be improved. Overall, this was my experience.",2026-06-20,neutral
+FB00865,3,4,Cyber Security,Database Management,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-05-27,positive
+FB00866,3,1,Cyber Security,Machine Learning,3,The teaching is satisfactory but could include more practical examples. I would like more real-world examples.,2026-08-31,neutral
+FB00867,3,8,CSE,Operating Systems,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-20,positive
+FB00868,1,8,AI & ML,Database Management,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-21,positive
+FB00869,1,2,Cyber Security,Python Programming,5,The teacher explains difficult concepts in a simple way.,2026-08-16,positive
+FB00870,1,3,CSE,Machine Learning,4,Assignments were relevant and improved my understanding.,2026-02-08,positive
+FB00871,1,4,CSE,Python Programming,5,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-04-26,positive
+FB00872,1,8,Cyber Security,Machine Learning,4,The instructor explains concepts clearly and uses useful examples.,2026-08-17,positive
+FB00873,3,6,AI & ML,Computer Networks,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-04,positive
+FB00874,2,1,CSE,Software Engineering,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-03-13,positive
+FB00875,1,5,AI & ML,Operating Systems,4,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-07-26,positive
+FB00876,4,4,Cyber Security,Artificial Intelligence,4,The teacher explains difficult concepts in a simple way.,2026-08-08,positive
+FB00877,1,8,Data Science,Database Management,3,"Most topics were covered, although some lectures felt average.",2026-05-30,neutral
+FB00878,1,6,CSE,Software Engineering,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-08-06,positive
+FB00879,4,5,Cyber Security,Python Programming,2,The course moves too fast and there is not enough time for questions.,2026-08-04,negative
+FB00880,3,6,AI & ML,Artificial Intelligence,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-07-04,positive
+FB00881,2,8,AI & ML,Python Programming,1,Assignments are excessive and do not always match the lectures.,2026-02-05,negative
+FB00882,3,6,CSE,Operating Systems,2,"The teaching feels repetitive and students do not receive enough feedback. Overall, this was my experience.",2026-04-27,negative
+FB00883,3,3,Cyber Security,Operating Systems,3,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-03-08,negative
+FB00884,3,7,Data Science,Artificial Intelligence,5,Excellent practical sessions and helpful feedback from the instructor.,2026-03-31,positive
+FB00885,2,8,AI & ML,Software Engineering,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-03-18,positive
+FB00886,3,6,CSE,Data Structures,5,The pace of the course is comfortable and the material is useful.,2026-04-15,positive
+FB00887,2,4,AI & ML,Python Programming,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-06-11,positive
+FB00888,1,8,Data Science,Database Management,2,Assignments are excessive and do not always match the lectures.,2026-08-19,negative
+FB00889,3,3,AI & ML,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently.,2026-02-17,positive
+FB00890,3,3,Cyber Security,Data Structures,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-03-17,positive
+FB00891,3,7,CSE,Computer Networks,5,The teacher explains difficult concepts in a simple way.,2026-01-26,positive
+FB00892,1,4,Cyber Security,Computer Networks,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-07-09,neutral
+FB00893,4,6,Data Science,Database Management,4,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-04-20,neutral
+FB00894,1,7,AI & ML,Python Programming,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-08-14,positive
+FB00895,4,1,Cyber Security,Machine Learning,2,The instructor should provide more practical examples and clearer explanations. More student interaction would be helpful.,2026-03-26,negative
+FB00896,3,1,Data Science,Artificial Intelligence,5,The course content is well organized and the instructor is supportive. More student interaction would be helpful.,2026-06-22,positive
+FB00897,4,2,AI & ML,Python Programming,4,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-06-26,positive
+FB00898,4,6,AI & ML,Data Structures,1,The instructor often skips important concepts.,2026-02-24,negative
+FB00899,2,7,Cyber Security,Machine Learning,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-05-01,positive
+FB00900,2,3,Data Science,Machine Learning,4,Assignments were relevant and improved my understanding.,2026-01-19,positive
+FB00901,1,1,Data Science,Computer Networks,3,The teaching is satisfactory but could include more practical examples.,2026-07-04,neutral
+FB00902,4,8,CSE,Machine Learning,5,The lectures are engaging and the teacher answers questions patiently.,2026-07-14,positive
+FB00903,2,3,AI & ML,Data Structures,5,Assignments were relevant and improved my understanding.,2026-08-28,positive
+FB00904,2,7,Cyber Security,Machine Learning,5,The instructor explains concepts clearly and uses useful examples.,2026-01-11,positive
+FB00905,4,6,Cyber Security,Data Structures,1,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-06-03,negative
+FB00906,2,3,Data Science,Database Management,5,The instructor explains concepts clearly and uses useful examples.,2026-02-01,positive
+FB00907,1,1,AI & ML,Computer Networks,3,The instructor should provide more practical examples and clearer explanations.,2026-07-23,negative
+FB00908,2,2,Cyber Security,Computer Networks,2,The lectures are difficult to follow and the concepts are not explained clearly. I would like more real-world examples.,2026-04-04,negative
+FB00909,3,5,Data Science,Software Engineering,3,The course structure is acceptable and the workload is manageable.,2026-02-20,neutral
+FB00910,3,4,AI & ML,Data Structures,1,"The teaching feels repetitive and students do not receive enough feedback. Overall, this was my experience.",2026-01-25,negative
+FB00911,3,3,AI & ML,Database Management,3,The course structure is acceptable and the workload is manageable.,2026-07-23,neutral
+FB00912,1,3,Data Science,Operating Systems,3,The instructor should provide more practical examples and clearer explanations.,2026-01-25,negative
+FB00913,1,8,AI & ML,Machine Learning,1,There are too many technical issues during practical sessions.,2026-04-28,negative
+FB00914,1,4,CSE,Software Engineering,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-04-07,neutral
+FB00915,1,6,CSE,Operating Systems,3,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-07-08,negative
+FB00916,2,4,Cyber Security,Database Management,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-03-11,positive
+FB00917,2,7,AI & ML,Operating Systems,2,Assignments are excessive and do not always match the lectures.,2026-05-11,negative
+FB00918,2,1,AI & ML,Computer Networks,4,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-04-16,positive
+FB00919,3,1,CSE,Operating Systems,2,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-03-29,negative
+FB00920,1,4,AI & ML,Artificial Intelligence,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-05-26,positive
+FB00921,3,1,CSE,Python Programming,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-17,positive
+FB00922,4,6,CSE,Computer Networks,4,The lectures are engaging and the teacher answers questions patiently.,2026-07-30,positive
+FB00923,4,4,CSE,Data Structures,4,"The content is useful, but the delivery could be improved.",2026-06-04,neutral
+FB00924,3,1,Data Science,Computer Networks,4,The teacher explains difficult concepts in a simple way.,2026-06-02,positive
+FB00925,3,7,Data Science,Data Structures,4,The course structure is acceptable and the workload is manageable.,2026-04-29,neutral
+FB00926,1,2,Data Science,Database Management,4,The pace of the course is comfortable and the material is useful.,2026-08-08,positive
+FB00927,1,3,Cyber Security,Database Management,4,Assignments were relevant and improved my understanding.,2026-04-07,positive
+FB00928,1,5,Data Science,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-16,positive
+FB00929,1,6,Data Science,Database Management,4,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-08-05,positive
+FB00930,3,2,Cyber Security,Operating Systems,4,The instructor explains concepts clearly and uses useful examples.,2026-07-09,positive
+FB00931,3,6,Data Science,Computer Networks,3,The course structure is acceptable and the workload is manageable.,2026-08-26,neutral
+FB00932,3,4,CSE,Artificial Intelligence,3,The course is okay and covers the required topics.,2026-07-18,neutral
+FB00933,3,6,Cyber Security,Machine Learning,4,The course structure is acceptable and the workload is manageable.,2026-04-19,neutral
+FB00934,1,3,Cyber Security,Computer Networks,4,The course structure is acceptable and the workload is manageable.,2026-08-16,neutral
+FB00935,3,5,CSE,Database Management,3,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-06-29,neutral
+FB00936,3,4,Data Science,Python Programming,5,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-03-05,positive
+FB00937,1,6,CSE,Database Management,5,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-03-25,positive
+FB00938,3,3,Data Science,Artificial Intelligence,3,"The course is okay and covers the required topics. Overall, this was my experience.",2026-07-13,neutral
+FB00939,1,8,CSE,Data Structures,4,The teacher explains difficult concepts in a simple way.,2026-01-27,positive
+FB00940,3,4,AI & ML,Data Structures,5,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-05-25,positive
+FB00941,2,3,Data Science,Python Programming,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-03-05,positive
+FB00942,1,8,Cyber Security,Data Structures,3,"The instructor provides the required material, but more interaction would help.",2026-04-26,neutral
+FB00943,1,6,Cyber Security,Python Programming,3,The teaching is satisfactory but could include more practical examples.,2026-07-20,neutral
+FB00944,1,3,Data Science,Data Structures,5,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-02-10,positive
+FB00945,4,3,Data Science,Operating Systems,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-07-28,positive
+FB00946,3,2,Data Science,Artificial Intelligence,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-08-14,neutral
+FB00947,2,7,Cyber Security,Artificial Intelligence,4,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-04-09,positive
+FB00948,1,7,AI & ML,Operating Systems,5,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-02-25,positive
+FB00949,1,2,Data Science,Artificial Intelligence,1,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-08-03,negative
+FB00950,4,6,Cyber Security,Artificial Intelligence,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-01-22,negative
+FB00951,4,6,Data Science,Machine Learning,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-04-19,negative
+FB00952,3,5,Cyber Security,Software Engineering,2,The instructor should provide more practical examples and clearer explanations. More student interaction would be helpful.,2026-05-22,negative
+FB00953,1,5,Cyber Security,Data Structures,2,The instructor often skips important concepts. I would like more real-world examples.,2026-09-06,negative
+FB00954,1,3,AI & ML,Operating Systems,5,The pace of the course is comfortable and the material is useful.,2026-08-11,positive
+FB00955,2,4,Cyber Security,Database Management,3,There are too many technical issues during practical sessions. More student interaction would be helpful.,2026-03-22,negative
+FB00956,4,7,AI & ML,Computer Networks,4,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-08-26,positive
+FB00957,2,2,Data Science,Machine Learning,4,"The content is useful, but the delivery could be improved. I would like more real-world examples.",2026-06-12,neutral
+FB00958,1,1,AI & ML,Software Engineering,2,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-08-26,negative
+FB00959,2,3,Cyber Security,Database Management,3,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-07-09,negative
+FB00960,2,4,AI & ML,Machine Learning,4,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-01-22,positive
+FB00961,4,7,CSE,Operating Systems,4,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-04-19,positive
+FB00962,3,7,Cyber Security,Data Structures,5,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-08-08,positive
+FB00963,1,6,Data Science,Operating Systems,4,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-05-21,positive
+FB00964,4,2,CSE,Data Structures,4,"The content is useful, but the delivery could be improved.",2026-08-05,neutral
+FB00965,4,7,Cyber Security,Software Engineering,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-05-01,positive
+FB00966,1,8,Cyber Security,Machine Learning,1,The lectures are difficult to follow and the concepts are not explained clearly. I would like more real-world examples.,2026-06-09,negative
+FB00967,2,8,CSE,Python Programming,4,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-06-04,neutral
+FB00968,3,8,Data Science,Python Programming,2,"The course material is confusing and the workload is difficult to manage. Overall, this was my experience.",2026-07-28,negative
+FB00969,1,6,Data Science,Artificial Intelligence,5,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-06-30,positive
+FB00970,1,3,CSE,Database Management,3,The course structure is acceptable and the workload is manageable. I would like more real-world examples.,2026-04-18,neutral
+FB00971,1,4,CSE,Computer Networks,4,The teaching is satisfactory but could include more practical examples. More student interaction would be helpful.,2026-02-17,neutral
+FB00972,4,4,Data Science,Software Engineering,4,"The instructor provides the required material, but more interaction would help.",2026-03-22,neutral
+FB00973,1,8,Cyber Security,Software Engineering,5,"Good teaching approach and practical demonstrations helped me understand the topic. Overall, this was my experience.",2026-05-13,positive
+FB00974,2,5,CSE,Operating Systems,4,The instructor explains concepts clearly and uses useful examples.,2026-05-26,positive
+FB00975,1,6,AI & ML,Software Engineering,5,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-07-17,positive
+FB00976,2,4,AI & ML,Artificial Intelligence,3,There are too many technical issues during practical sessions. More student interaction would be helpful.,2026-07-25,negative
+FB00977,2,4,Data Science,Artificial Intelligence,4,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-01-17,neutral
+FB00978,2,3,Cyber Security,Computer Networks,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-06-30,neutral
+FB00979,2,5,AI & ML,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently.,2026-02-16,positive
+FB00980,1,1,Data Science,Software Engineering,5,The instructor explains concepts clearly and uses useful examples.,2026-03-18,positive
+FB00981,4,3,CSE,Computer Networks,4,The lectures are engaging and the teacher answers questions patiently.,2026-01-20,positive
+FB00982,1,1,Cyber Security,Python Programming,5,The course content is well organized and the instructor is supportive.,2026-05-31,positive
+FB00983,4,3,AI & ML,Data Structures,3,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-07-30,neutral
+FB00984,1,6,AI & ML,Python Programming,4,"The content is useful, but the delivery could be improved.",2026-07-20,neutral
+FB00985,3,5,CSE,Python Programming,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-02-11,positive
+FB00986,2,6,CSE,Artificial Intelligence,2,The teaching feels repetitive and students do not receive enough feedback.,2026-06-01,negative
+FB00987,2,5,CSE,Operating Systems,1,The instructor often skips important concepts. I would like more real-world examples.,2026-01-12,negative
+FB00988,1,5,Cyber Security,Operating Systems,2,There are too many technical issues during practical sessions.,2026-07-25,negative
+FB00989,1,7,CSE,Artificial Intelligence,2,The course moves too fast and there is not enough time for questions.,2026-03-10,negative
+FB00990,2,6,Data Science,Software Engineering,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-07-29,positive
+FB00991,4,8,AI & ML,Computer Networks,3,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-03-14,neutral
+FB00992,3,8,CSE,Data Structures,5,Assignments were relevant and improved my understanding. I would like more real-world examples.,2026-04-29,positive
+FB00993,3,7,Data Science,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor.,2026-01-28,positive
+FB00994,1,8,CSE,Data Structures,3,The teaching is satisfactory but could include more practical examples.,2026-03-25,neutral
+FB00995,2,3,Data Science,Artificial Intelligence,4,The teaching is satisfactory but could include more practical examples.,2026-07-20,neutral
+FB00996,4,2,Cyber Security,Operating Systems,5,The course content is well organized and the instructor is supportive.,2026-03-04,positive
+FB00997,3,8,Data Science,Data Structures,1,Assignments are excessive and do not always match the lectures.,2026-05-19,negative
+FB00998,2,5,AI & ML,Computer Networks,3,The teaching feels repetitive and students do not receive enough feedback.,2026-04-10,negative
+FB00999,3,6,Cyber Security,Computer Networks,2,The instructor often skips important concepts.,2026-08-15,negative
+FB01000,4,1,Cyber Security,Database Management,4,The course is okay and covers the required topics.,2026-07-25,neutral
+FB01001,1,5,AI & ML,Data Structures,5,The instructor explains concepts clearly and uses useful examples.,2026-05-09,positive
+FB01002,4,4,Cyber Security,Software Engineering,4,"The content is useful, but the delivery could be improved. More student interaction would be helpful.",2026-06-27,neutral
+FB01003,1,8,AI & ML,Computer Networks,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-07-26,positive
+FB01004,4,6,AI & ML,Operating Systems,2,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-08-08,negative
+FB01005,1,5,Cyber Security,Data Structures,3,The lectures are difficult to follow and the concepts are not explained clearly. More student interaction would be helpful.,2026-02-20,negative
+FB01006,1,8,Cyber Security,Database Management,4,The instructor explains concepts clearly and uses useful examples.,2026-08-08,positive
+FB01007,2,4,CSE,Python Programming,3,The course moves too fast and there is not enough time for questions.,2026-01-11,negative
+FB01008,2,7,CSE,Artificial Intelligence,2,There are too many technical issues during practical sessions. More student interaction would be helpful.,2026-02-02,negative
+FB01009,3,1,Cyber Security,Python Programming,5,"The course content is well organized and the instructor is supportive. Overall, this was my experience.",2026-03-05,positive
+FB01010,3,2,Cyber Security,Machine Learning,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-08-10,positive
+FB01011,2,7,CSE,Software Engineering,3,"The content is useful, but the delivery could be improved.",2026-08-06,neutral
+FB01012,1,3,Cyber Security,Machine Learning,3,"The instructor provides the required material, but more interaction would help.",2026-01-22,neutral
+FB01013,3,6,Data Science,Operating Systems,4,The instructor explains concepts clearly and uses useful examples.,2026-04-05,positive
+FB01014,1,1,Data Science,Operating Systems,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-01-29,positive
+FB01015,1,7,CSE,Machine Learning,5,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-07-04,positive
+FB01016,3,2,Cyber Security,Operating Systems,4,The instructor explains concepts clearly and uses useful examples.,2026-04-09,positive
+FB01017,1,5,Data Science,Operating Systems,4,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-02-26,positive
+FB01018,4,2,Cyber Security,Machine Learning,3,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-02-10,negative
+FB01019,2,4,CSE,Data Structures,5,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-08-26,positive
+FB01020,1,5,Cyber Security,Computer Networks,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-01-10,positive
+FB01021,2,8,AI & ML,Data Structures,4,Assignments were relevant and improved my understanding.,2026-03-27,positive
+FB01022,1,1,CSE,Database Management,5,The pace of the course is comfortable and the material is useful.,2026-06-12,positive
+FB01023,1,3,Cyber Security,Operating Systems,3,The teaching is satisfactory but could include more practical examples.,2026-02-24,neutral
+FB01024,1,7,AI & ML,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently.,2026-06-12,positive
+FB01025,2,6,Cyber Security,Python Programming,4,"The instructor provides the required material, but more interaction would help. Overall, this was my experience.",2026-07-04,neutral
+FB01026,2,7,CSE,Data Structures,3,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-02-02,negative
+FB01027,4,2,Data Science,Machine Learning,4,Assignments were relevant and improved my understanding.,2026-05-24,positive
+FB01028,3,6,Data Science,Operating Systems,4,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-04-30,positive
+FB01029,2,5,CSE,Python Programming,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-04-22,positive
+FB01030,2,8,CSE,Software Engineering,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-04-23,positive
+FB01031,3,6,AI & ML,Machine Learning,4,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-07-03,positive
+FB01032,3,1,Cyber Security,Data Structures,4,The course is okay and covers the required topics.,2026-02-11,neutral
+FB01033,2,4,Cyber Security,Artificial Intelligence,5,Assignments were relevant and improved my understanding.,2026-02-14,positive
+FB01034,2,3,Data Science,Computer Networks,4,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-02-23,positive
+FB01035,2,8,AI & ML,Data Structures,4,Excellent practical sessions and helpful feedback from the instructor. I would like more real-world examples.,2026-08-01,positive
+FB01036,3,8,AI & ML,Database Management,4,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-02-16,positive
+FB01037,2,4,CSE,Software Engineering,3,"Most topics were covered, although some lectures felt average. I would like more real-world examples.",2026-03-02,neutral
+FB01038,1,7,CSE,Data Structures,4,The course is okay and covers the required topics.,2026-03-25,neutral
+FB01039,2,8,Cyber Security,Python Programming,4,The course content is well organized and the instructor is supportive.,2026-03-05,positive
+FB01040,3,1,Cyber Security,Computer Networks,5,The instructor explains concepts clearly and uses useful examples.,2026-05-25,positive
+FB01041,4,2,AI & ML,Artificial Intelligence,3,The course is okay and covers the required topics.,2026-01-31,neutral
+FB01042,2,2,Cyber Security,Data Structures,1,The course material is confusing and the workload is difficult to manage. More student interaction would be helpful.,2026-02-28,negative
+FB01043,4,8,Data Science,Python Programming,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-05,positive
+FB01044,1,6,AI & ML,Computer Networks,4,"The instructor provides the required material, but more interaction would help.",2026-06-28,neutral
+FB01045,4,4,AI & ML,Data Structures,4,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-01-16,positive
+FB01046,1,1,AI & ML,Computer Networks,5,The instructor explains concepts clearly and uses useful examples.,2026-07-03,positive
+FB01047,1,4,Cyber Security,Operating Systems,4,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-03-15,positive
+FB01048,3,7,Data Science,Data Structures,5,The course content is well organized and the instructor is supportive.,2026-08-30,positive
+FB01049,4,7,Cyber Security,Software Engineering,5,Good teaching approach and practical demonstrations helped me understand the topic. More student interaction would be helpful.,2026-09-04,positive
+FB01050,3,7,CSE,Computer Networks,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-08-29,positive
+FB01051,1,3,Data Science,Python Programming,5,The pace of the course is comfortable and the material is useful.,2026-01-31,positive
+FB01052,3,7,AI & ML,Database Management,3,"Most topics were covered, although some lectures felt average. More student interaction would be helpful.",2026-08-01,neutral
+FB01053,3,1,Data Science,Database Management,1,The instructor often skips important concepts.,2026-06-28,negative
+FB01054,2,6,Cyber Security,Database Management,3,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-02-05,neutral
+FB01055,3,3,CSE,Machine Learning,4,"Most topics were covered, although some lectures felt average.",2026-03-10,neutral
+FB01056,2,7,Data Science,Python Programming,4,The instructor explains concepts clearly and uses useful examples. More student interaction would be helpful.,2026-04-10,positive
+FB01057,3,5,Cyber Security,Software Engineering,4,Assignments were relevant and improved my understanding.,2026-08-15,positive
+FB01058,3,8,Cyber Security,Computer Networks,3,Assignments are excessive and do not always match the lectures.,2026-07-03,negative
+FB01059,4,1,Cyber Security,Computer Networks,4,"The instructor provides the required material, but more interaction would help. I would like more real-world examples.",2026-04-23,neutral
+FB01060,4,1,Data Science,Python Programming,4,The pace of the course is comfortable and the material is useful.,2026-05-03,positive
+FB01061,1,8,Cyber Security,Software Engineering,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-04-06,positive
+FB01062,3,4,Cyber Security,Database Management,4,The lectures are engaging and the teacher answers questions patiently.,2026-01-22,positive
+FB01063,1,3,CSE,Operating Systems,2,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-08-08,negative
+FB01064,4,3,Data Science,Computer Networks,5,Excellent practical sessions and helpful feedback from the instructor.,2026-07-09,positive
+FB01065,1,8,Cyber Security,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-02-27,positive
+FB01066,1,4,Data Science,Machine Learning,5,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-07-11,positive
+FB01067,4,8,AI & ML,Database Management,2,The instructor should provide more practical examples and clearer explanations.,2026-02-28,negative
+FB01068,3,6,Cyber Security,Machine Learning,4,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-03-01,positive
+FB01069,4,5,CSE,Computer Networks,3,The course is okay and covers the required topics.,2026-08-25,neutral
+FB01070,1,1,Cyber Security,Artificial Intelligence,3,"The content is useful, but the delivery could be improved.",2026-06-24,neutral
+FB01071,4,3,AI & ML,Software Engineering,5,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-01-15,positive
+FB01072,1,8,CSE,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently.,2026-04-25,positive
+FB01073,2,1,Data Science,Python Programming,5,Assignments were relevant and improved my understanding. More student interaction would be helpful.,2026-03-26,positive
+FB01074,4,6,Cyber Security,Python Programming,3,"The course moves too fast and there is not enough time for questions. Overall, this was my experience.",2026-07-24,negative
+FB01075,2,1,Data Science,Database Management,4,The instructor explains concepts clearly and uses useful examples.,2026-07-11,positive
+FB01076,2,3,Data Science,Software Engineering,5,The instructor explains concepts clearly and uses useful examples.,2026-07-08,positive
+FB01077,3,8,AI & ML,Data Structures,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-07-06,positive
+FB01078,4,3,AI & ML,Python Programming,4,"The instructor provides the required material, but more interaction would help.",2026-07-05,neutral
+FB01079,3,7,Cyber Security,Operating Systems,1,There are too many technical issues during practical sessions. More student interaction would be helpful.,2026-05-26,negative
+FB01080,2,4,AI & ML,Computer Networks,5,The instructor explains concepts clearly and uses useful examples.,2026-04-03,positive
+FB01081,3,1,Cyber Security,Operating Systems,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-08-11,negative
+FB01082,4,3,CSE,Operating Systems,4,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-06-18,positive
+FB01083,1,6,CSE,Database Management,1,The teaching feels repetitive and students do not receive enough feedback.,2026-05-03,negative
+FB01084,2,3,Data Science,Artificial Intelligence,5,"The lectures are engaging and the teacher answers questions patiently. Overall, this was my experience.",2026-08-08,positive
+FB01085,1,6,Data Science,Software Engineering,1,The course moves too fast and there is not enough time for questions.,2026-05-28,negative
+FB01086,4,2,AI & ML,Machine Learning,1,The lectures are difficult to follow and the concepts are not explained clearly.,2026-05-02,negative
+FB01087,2,1,Cyber Security,Data Structures,2,"The instructor often skips important concepts. Overall, this was my experience.",2026-04-27,negative
+FB01088,4,2,CSE,Database Management,4,The pace of the course is comfortable and the material is useful.,2026-01-16,positive
+FB01089,4,3,Data Science,Python Programming,3,The teaching is satisfactory but could include more practical examples.,2026-01-22,neutral
+FB01090,3,1,Data Science,Software Engineering,4,Assignments were relevant and improved my understanding.,2026-07-07,positive
+FB01091,3,6,CSE,Machine Learning,3,The course moves too fast and there is not enough time for questions.,2026-07-31,negative
+FB01092,2,3,Cyber Security,Database Management,4,"The instructor explains concepts clearly and uses useful examples. Overall, this was my experience.",2026-03-08,positive
+FB01093,2,4,Cyber Security,Operating Systems,1,The instructor often skips important concepts.,2026-02-13,negative
+FB01094,2,1,AI & ML,Artificial Intelligence,2,The course material is confusing and the workload is difficult to manage.,2026-08-24,negative
+FB01095,3,5,Data Science,Python Programming,5,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-08-13,positive
+FB01096,3,3,CSE,Data Structures,4,"The course is okay and covers the required topics. Overall, this was my experience.",2026-06-08,neutral
+FB01097,4,3,Cyber Security,Software Engineering,4,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-06-03,positive
+FB01098,2,5,AI & ML,Machine Learning,3,The course moves too fast and there is not enough time for questions.,2026-08-30,negative
+FB01099,3,4,CSE,Database Management,3,"Assignments are excessive and do not always match the lectures. Overall, this was my experience.",2026-07-21,negative
+FB01100,2,4,AI & ML,Machine Learning,3,There are too many technical issues during practical sessions.,2026-04-14,negative
+FB01101,1,7,Data Science,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor.,2026-02-04,positive
+FB01102,1,4,Data Science,Computer Networks,1,The lectures are difficult to follow and the concepts are not explained clearly.,2026-03-12,negative
+FB01103,1,3,CSE,Data Structures,4,The course is okay and covers the required topics.,2026-08-02,neutral
+FB01104,2,2,AI & ML,Machine Learning,5,The instructor explains concepts clearly and uses useful examples.,2026-04-22,positive
+FB01105,3,3,AI & ML,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently. More student interaction would be helpful.,2026-06-26,positive
+FB01106,3,2,Cyber Security,Computer Networks,4,The course structure is acceptable and the workload is manageable.,2026-03-14,neutral
+FB01107,2,6,AI & ML,Operating Systems,4,The pace of the course is comfortable and the material is useful. I would like more real-world examples.,2026-07-25,positive
+FB01108,1,1,AI & ML,Database Management,5,The teacher explains difficult concepts in a simple way.,2026-01-16,positive
+FB01109,4,6,Data Science,Artificial Intelligence,2,The course moves too fast and there is not enough time for questions.,2026-05-16,negative
+FB01110,4,5,Cyber Security,Database Management,4,"The content is useful, but the delivery could be improved.",2026-04-21,neutral
+FB01111,4,8,CSE,Operating Systems,4,The teacher explains difficult concepts in a simple way. More student interaction would be helpful.,2026-06-30,positive
+FB01112,4,1,CSE,Data Structures,3,The instructor often skips important concepts.,2026-03-27,negative
+FB01113,1,3,CSE,Software Engineering,4,"Most topics were covered, although some lectures felt average.",2026-08-12,neutral
+FB01114,4,4,Data Science,Machine Learning,5,The instructor explains concepts clearly and uses useful examples.,2026-07-26,positive
+FB01115,4,3,Data Science,Computer Networks,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-05-04,positive
+FB01116,4,3,CSE,Machine Learning,4,Excellent practical sessions and helpful feedback from the instructor.,2026-03-18,positive
+FB01117,3,8,AI & ML,Database Management,4,The course content is well organized and the instructor is supportive.,2026-06-08,positive
+FB01118,2,4,AI & ML,Computer Networks,3,The lectures are difficult to follow and the concepts are not explained clearly.,2026-05-17,negative
+FB01119,4,8,CSE,Machine Learning,3,"Most topics were covered, although some lectures felt average.",2026-06-10,neutral
+FB01120,4,5,Data Science,Database Management,4,"Most topics were covered, although some lectures felt average. More student interaction would be helpful.",2026-04-27,neutral
+FB01121,1,3,CSE,Machine Learning,4,The instructor explains concepts clearly and uses useful examples.,2026-04-13,positive
+FB01122,3,6,Cyber Security,Artificial Intelligence,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-05-20,positive
+FB01123,4,2,AI & ML,Software Engineering,2,The course moves too fast and there is not enough time for questions. I would like more real-world examples.,2026-06-02,negative
+FB01124,2,3,AI & ML,Python Programming,1,The instructor should provide more practical examples and clearer explanations.,2026-01-12,negative
+FB01125,3,7,CSE,Machine Learning,4,Good teaching approach and practical demonstrations helped me understand the topic.,2026-06-25,positive
+FB01126,4,4,CSE,Python Programming,4,The course content is well organized and the instructor is supportive.,2026-01-29,positive
+FB01127,1,8,AI & ML,Database Management,3,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-05-31,negative
+FB01128,3,1,Cyber Security,Database Management,3,The instructor often skips important concepts. I would like more real-world examples.,2026-05-04,negative
+FB01129,3,8,CSE,Software Engineering,1,Assignments are excessive and do not always match the lectures.,2026-09-01,negative
+FB01130,3,2,CSE,Artificial Intelligence,3,The course structure is acceptable and the workload is manageable.,2026-07-02,neutral
+FB01131,1,5,Data Science,Machine Learning,5,The instructor explains concepts clearly and uses useful examples.,2026-05-11,positive
+FB01132,4,3,CSE,Python Programming,5,The teacher explains difficult concepts in a simple way. I would like more real-world examples.,2026-03-29,positive
+FB01133,3,5,Cyber Security,Software Engineering,4,"The course structure is acceptable and the workload is manageable. Overall, this was my experience.",2026-02-24,neutral
+FB01134,3,3,CSE,Python Programming,3,"The content is useful, but the delivery could be improved.",2026-04-11,neutral
+FB01135,4,6,CSE,Python Programming,1,Assignments are excessive and do not always match the lectures. I would like more real-world examples.,2026-07-18,negative
+FB01136,1,6,Data Science,Computer Networks,4,The teacher explains difficult concepts in a simple way.,2026-02-25,positive
+FB01137,4,3,Data Science,Software Engineering,3,The course structure is acceptable and the workload is manageable.,2026-08-22,neutral
+FB01138,3,6,AI & ML,Operating Systems,4,"Most topics were covered, although some lectures felt average.",2026-08-04,neutral
+FB01139,3,1,CSE,Python Programming,3,The course is okay and covers the required topics. I would like more real-world examples.,2026-08-31,neutral
+FB01140,3,3,Cyber Security,Software Engineering,4,The pace of the course is comfortable and the material is useful.,2026-08-12,positive
+FB01141,2,3,Data Science,Python Programming,4,The course structure is acceptable and the workload is manageable. More student interaction would be helpful.,2026-01-29,neutral
+FB01142,4,3,Cyber Security,Python Programming,5,The instructor explains concepts clearly and uses useful examples.,2026-04-09,positive
+FB01143,2,7,AI & ML,Data Structures,3,"Most topics were covered, although some lectures felt average.",2026-03-29,neutral
+FB01144,4,3,AI & ML,Machine Learning,4,The lectures are engaging and the teacher answers questions patiently.,2026-03-28,positive
+FB01145,1,4,Data Science,Operating Systems,4,The teaching is satisfactory but could include more practical examples.,2026-05-25,neutral
+FB01146,2,2,AI & ML,Computer Networks,3,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-05-10,neutral
+FB01147,1,8,AI & ML,Software Engineering,5,The pace of the course is comfortable and the material is useful.,2026-06-15,positive
+FB01148,4,8,CSE,Operating Systems,5,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-03-14,positive
+FB01149,2,8,AI & ML,Python Programming,4,"Most topics were covered, although some lectures felt average. Overall, this was my experience.",2026-03-01,neutral
+FB01150,1,7,Data Science,Artificial Intelligence,5,The instructor explains concepts clearly and uses useful examples.,2026-08-25,positive
+FB01151,2,1,CSE,Operating Systems,5,"Excellent practical sessions and helpful feedback from the instructor. Overall, this was my experience.",2026-07-25,positive
+FB01152,2,4,Data Science,Data Structures,2,There are too many technical issues during practical sessions. I would like more real-world examples.,2026-06-03,negative
+FB01153,4,8,CSE,Machine Learning,4,"Most topics were covered, although some lectures felt average. I would like more real-world examples.",2026-06-15,neutral
+FB01154,4,5,CSE,Computer Networks,5,"The teacher explains difficult concepts in a simple way. Overall, this was my experience.",2026-05-12,positive
+FB01155,4,1,CSE,Machine Learning,4,The lectures are engaging and the teacher answers questions patiently.,2026-08-31,positive
+FB01156,3,6,Data Science,Machine Learning,5,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-06-28,positive
+FB01157,2,3,Data Science,Software Engineering,3,"The instructor often skips important concepts. Overall, this was my experience.",2026-05-08,negative
+FB01158,4,7,Data Science,Software Engineering,3,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-06-30,neutral
+FB01159,4,4,AI & ML,Software Engineering,4,"The content is useful, but the delivery could be improved. More student interaction would be helpful.",2026-06-10,neutral
+FB01160,3,2,CSE,Data Structures,3,The course is okay and covers the required topics.,2026-08-16,neutral
+FB01161,2,6,AI & ML,Software Engineering,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-05-25,positive
+FB01162,3,6,Cyber Security,Software Engineering,4,"The content is useful, but the delivery could be improved.",2026-04-06,neutral
+FB01163,1,6,Cyber Security,Python Programming,4,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-02-26,positive
+FB01164,4,5,CSE,Computer Networks,1,The lectures are difficult to follow and the concepts are not explained clearly. I would like more real-world examples.,2026-07-12,negative
+FB01165,1,1,AI & ML,Artificial Intelligence,4,"The pace of the course is comfortable and the material is useful. Overall, this was my experience.",2026-01-23,positive
+FB01166,3,7,Cyber Security,Data Structures,5,The instructor explains concepts clearly and uses useful examples.,2026-07-30,positive
+FB01167,3,4,Data Science,Machine Learning,2,The teaching feels repetitive and students do not receive enough feedback.,2026-08-14,negative
+FB01168,2,7,Cyber Security,Machine Learning,4,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-01-22,neutral
+FB01169,4,5,AI & ML,Computer Networks,5,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-07-01,positive
+FB01170,1,5,AI & ML,Machine Learning,5,Excellent practical sessions and helpful feedback from the instructor. More student interaction would be helpful.,2026-05-22,positive
+FB01171,2,5,AI & ML,Data Structures,3,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-05-15,negative
+FB01172,4,7,AI & ML,Artificial Intelligence,4,The course is okay and covers the required topics.,2026-03-05,neutral
+FB01173,3,2,AI & ML,Python Programming,5,The course content is well organized and the instructor is supportive.,2026-07-06,positive
+FB01174,1,4,AI & ML,Computer Networks,1,The course moves too fast and there is not enough time for questions. More student interaction would be helpful.,2026-03-06,negative
+FB01175,2,4,Data Science,Computer Networks,1,The instructor often skips important concepts. More student interaction would be helpful.,2026-03-21,negative
+FB01176,2,1,AI & ML,Machine Learning,3,Assignments are excessive and do not always match the lectures.,2026-04-11,negative
+FB01177,2,4,AI & ML,Python Programming,1,The instructor often skips important concepts.,2026-01-12,negative
+FB01178,4,8,Data Science,Artificial Intelligence,4,The lectures are engaging and the teacher answers questions patiently.,2026-08-25,positive
+FB01179,1,5,CSE,Computer Networks,4,The instructor explains concepts clearly and uses useful examples. I would like more real-world examples.,2026-05-17,positive
+FB01180,4,4,AI & ML,Database Management,2,The instructor should provide more practical examples and clearer explanations.,2026-08-27,negative
+FB01181,1,8,Data Science,Operating Systems,3,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-07-10,negative
+FB01182,2,4,CSE,Operating Systems,3,The course moves too fast and there is not enough time for questions.,2026-05-27,negative
+FB01183,2,5,CSE,Database Management,1,The instructor should provide more practical examples and clearer explanations. I would like more real-world examples.,2026-03-31,negative
+FB01184,2,7,Data Science,Python Programming,5,Excellent practical sessions and helpful feedback from the instructor.,2026-01-24,positive
+FB01185,3,2,CSE,Computer Networks,5,Good teaching approach and practical demonstrations helped me understand the topic.,2026-02-14,positive
+FB01186,3,7,Cyber Security,Artificial Intelligence,1,"The teaching feels repetitive and students do not receive enough feedback. Overall, this was my experience.",2026-08-13,negative
+FB01187,3,7,CSE,Operating Systems,5,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-01-11,positive
+FB01188,4,8,CSE,Python Programming,3,The teaching feels repetitive and students do not receive enough feedback. More student interaction would be helpful.,2026-04-30,negative
+FB01189,3,8,AI & ML,Software Engineering,2,The instructor should provide more practical examples and clearer explanations.,2026-04-21,negative
+FB01190,1,3,Data Science,Python Programming,5,The course content is well organized and the instructor is supportive. I would like more real-world examples.,2026-02-16,positive
+FB01191,1,7,Cyber Security,Artificial Intelligence,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-07-02,positive
+FB01192,3,2,Data Science,Machine Learning,4,Good teaching approach and practical demonstrations helped me understand the topic. I would like more real-world examples.,2026-07-05,positive
+FB01193,3,4,Cyber Security,Python Programming,1,"There are too many technical issues during practical sessions. Overall, this was my experience.",2026-08-27,negative
+FB01194,2,2,Data Science,Computer Networks,5,The lectures are engaging and the teacher answers questions patiently.,2026-07-20,positive
+FB01195,1,4,Data Science,Computer Networks,2,The lectures are difficult to follow and the concepts are not explained clearly.,2026-01-15,negative
+FB01196,3,7,CSE,Data Structures,4,"The teaching is satisfactory but could include more practical examples. Overall, this was my experience.",2026-01-11,neutral
+FB01197,2,4,CSE,Python Programming,5,The pace of the course is comfortable and the material is useful. More student interaction would be helpful.,2026-04-24,positive
+FB01198,2,8,CSE,Operating Systems,3,"Most topics were covered, although some lectures felt average.",2026-03-28,neutral
+FB01199,2,6,Data Science,Machine Learning,4,"Assignments were relevant and improved my understanding. Overall, this was my experience.",2026-05-08,positive
+FB01200,4,3,Data Science,Python Programming,2,Assignments are excessive and do not always match the lectures. More student interaction would be helpful.,2026-06-25,negative
